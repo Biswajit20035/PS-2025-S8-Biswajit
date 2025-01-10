@@ -9,6 +9,7 @@ There are 2 parallel plate connected with a battery of "V" volts. Charges are un
 -Q is the net charge in another plate .
 Gauss's theorem mathemticallly expressed as
 $\Phi$	
+$\varphi$
 
 
  
