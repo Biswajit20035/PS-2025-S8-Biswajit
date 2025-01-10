@@ -9,9 +9,8 @@ There are 2 parallel plate connected with a battery of "V" volts. Charges are un
 -Q is the net charge in another plate .
 Gauss's theorem mathemticallly expressed as
 $\phi$ = $\oint$	E.ds= q/ $\epsilon$<sub>o</sub>
-[alt text](![Uploading WhatsApp Image 2025-01-10 at 10.30.41 AM.jpeg…]()
+[alt text](![Uploading 2Parallel_Plate_capacitor.jpg…]()
 )
-
 
 
 
