@@ -4,6 +4,13 @@
 ![2Parallel_Plate_capacitor](https://github.com/user-attachments/assets/00b3d137-a7a9-4e26-9211-737544bf3465)
 
 
+## Day 2
+There are 2 parallel plate connected with a battery of "V" volts. Charges are uniformly distributed in both the plates . Let Q is the total charge in one plate and 
+-Q is the net charge in another plate .
+Gauss's theorem mathemticallly expressed as
+$\phi$	=
+
+
  
 
 
