@@ -8,7 +8,7 @@
 There are 2 parallel plate connected with a battery of "V" volts. Charges are uniformly distributed in both the plates . Let Q is the total charge in one plate and 
 -Q is the net charge in another plate .
 Gauss's theorem mathemticallly expressed as
-$\phi$ = $\oint$	E.ds= q/ $\epsilon$ 
+$\phi$ = $\oint$	E.ds= q/ $\epsilon$~0~
 
 
 
