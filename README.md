@@ -7,15 +7,15 @@
 ## Day 2
 Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection  Let the plate connected with the cathode of battery has total charge +Q on its surface and 
 the plate connected with the anode of battery has total charge -Q on its surface and the potential difference between on the plates are V1 and V2 respectively.\
-Relation between total charge(Q) and potential difference between two parallel plates (V= V1-V2) can be mathematicaaly expressed as 
+Relation between total charge on either plate and potential difference between two parallel plates (V= V1-V2) can be mathematicaaly expressed as 
 
- $$ Q \propto V $$
+$$ Q \propto V $$
  
- Here the proportionality constant is the capacitance of the parallel plates :
+Here the proportionality constant is the capacitance of the parallel plates :
  
  $$ Q = CV .......................(1)$$  
  
-We will apply Gauss's theorem to calculate the capacitance of the paralle plates .\
+We will apply Gauss's theorem to calculate the capacitance of the parallel plates .\
 Gauss Theorem can mathemticallly expressed as
 
 $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(2)$$
