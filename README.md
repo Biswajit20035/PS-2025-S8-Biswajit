@@ -13,7 +13,7 @@ Relation between total charge(Q) and potential difference between two parallel p
  
  Here the proportionality constant is the capacitance of the parallel plates :
  
- $$ Q = CV $$
+ $$ Q = CV $$  ...............(1)
 
 We will apply Gauss's theorem to calculate the capacitance of the paralle plates .\
 Gauss Theorem can mathemticallly expressed as
