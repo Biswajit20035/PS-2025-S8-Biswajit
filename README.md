@@ -15,19 +15,16 @@ Assuming a large area and small separation "d" between plates , Electric feild b
  C= $\frac{Q}{V}$ \
  C= $\frac{ $\epsilon$<sub>o</sub> AE }{ Ed}$
  C= 
-Missing close brace
-
 $$
 \frac{\epsilon_0 \cdot AE}{Ed}
 $$
-\
-\epsilon\
 
 
 
 
 
-$\epsilon$
+
+
 
 
 
