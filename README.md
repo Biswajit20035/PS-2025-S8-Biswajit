@@ -5,9 +5,10 @@
 
 
 ## Day 2
-Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection  Let the plate connected with the cathode of battery has total charge +Q on its surface and 
-the plate connected with the anode of battery has total charge -Q on its surface and the potential difference between on the plates are V1 and V2 respectively.\
-Relation between total charge on either plate and potential difference between two parallel plates (V= V1-V2) can be mathematicaaly expressed as 
+Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection let the plate connected with the cathode of battery has total charge +Q on its surface and 
+the plate connected with the anode of battery has total charge -Q on its surface .
+Gradually the charge increases on the plate potential also increases.Let the potential on the plates are V1 and V2 respectively .\
+Relation between total charge on either plate and potential difference between two parallel plates (V= V1-V2) can be mathematically expressed as:
 
 $$ Q \propto V $$
  
@@ -30,7 +31,7 @@ Assuming a large area and small separation "d" between plates , Electric feild b
 
 $$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
 
-From the equation 1 :
+From the equation 1 Capacitance C can be :
 
 $$C= \frac{Q}{V} $$
 
