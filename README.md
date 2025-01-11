@@ -15,6 +15,8 @@ Gauss's Theorem states that the flux of a vector field **F** through a closed su
 
 $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} $$
 
+$$ Q=\overrightarrow{E}.A.\epsilon_o $$
+
 where:
 - \(\partial V\) is the closed surface bounding the volume \(V\)
 - \(\mathbf{F}\) is the vector field
