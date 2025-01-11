@@ -21,7 +21,9 @@ Gauss Theorem can mathemticallly expressed as
 
 $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(2)$$
 
-$$ EA=  \frac{Q _{in}}{\epsilon_o} $$
+We imagine a closed gaussian surface around the a plate and total electric flux coming out of that closed gaussian surface can be expressed as
+
+$$\Phi_E = EA=  \frac{Q}{\epsilon_o} $$
 
 Q can be expressed as :
 
