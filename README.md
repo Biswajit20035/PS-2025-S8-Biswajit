@@ -23,9 +23,13 @@ $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in
 
 $$ EA=  \frac{Q _{in}}{\epsilon_o} $$
 
-Q can be expressed as :$$ Q=\overrightarrow{E}.A.\epsilon_o ...................(3) $$
+Q can be expressed as :
 
-Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically  $$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
+$$ Q=\overrightarrow{E}.A.\epsilon_o ...................(3) $$
+
+Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
+
+$$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
 
 From the equation 1 Capacitance C can be expressed as  :  $$C= \frac{Q}{V} $$
 
