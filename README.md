@@ -13,17 +13,6 @@ $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically \
  $\overrightarrow{E}$=  V /  $\overrightarrow{d}$  \
  C= $\frac{Q}{V}$ \
-C= 
-$$
-\frac{$\epsilon$<sub>o</sub>}{Ed}
-$$
-
-$$
-C = \epsilon_0 \cdot A \cdot E / (E \cdot d)
-$$
-
-C= 
-Missing close brace
 
 $$
 C=\frac{\epsilon_0 \cdot AE}{Ed}
