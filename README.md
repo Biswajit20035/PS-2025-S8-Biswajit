@@ -8,7 +8,9 @@
 Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection let the plate connected with the cathode of battery has total charge +Q on its surface and 
 the plate connected with the anode of battery has total charge -Q on its surface .\
 Gradually as the charge increases on the plate potential also increases.Let the potential on the plates are V1 and V2 respectively .\
-Relation between total charge on either plate and potential difference between two parallel plates (V= V1-V2) can be mathematically expressed as:                                          $$ Q \propto V $$
+Relation between total charge on either plate and potential difference between two parallel plates (V= V1-V2) can be mathematically expressed as:
+
+$$ Q \propto V $$
  
 Here the proportionality constant is the capacitance of the parallel plates :
  
