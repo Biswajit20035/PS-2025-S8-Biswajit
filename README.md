@@ -10,25 +10,19 @@ the plate connected with the anode of battery has total charge -Q on its surface
 Relation between total charge(Q) and potential difference between two parallel plates (V= V1-V2) can be mathematicaaly expressed as 
 
  $$ Q \propto V $$
+ 
  Here the proportionality constant is the capacitance of the parallel plates :
  
-  $$ Q = CV $$
+ $$ Q = CV $$
 
-Gauss's theorem mathemticallly expressed as
+We will apply Gauss's theorem to calculate the capacitance of the paralle plates .\
+Gauss Theorem can mathemticallly expressed as
 
-### Gauss's Theorem (Divergence Theorem)
-
-Gauss's Theorem states that the flux of a vector field **F** through a closed surface **S** is equal to the volume integral of the divergence of **F** over the region **V** enclosed by **S**.
 
 $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} $$
 
 $$ Q=\overrightarrow{E}.A.\epsilon_o $$
 
-where:
-- \(\partial V\) is the closed surface bounding the volume \(V\)
-- \(\mathbf{F}\) is the vector field
-- \(d\mathbf{A}\) is the outward-pointing unit normal vector on the surface \(S\)
-- \(\nabla \cdot \mathbf{F}\) is the divergence of \(\mathbf{F}\)
 
 $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
