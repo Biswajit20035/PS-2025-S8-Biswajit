@@ -11,7 +11,7 @@ Gauss's theorem mathemticallly expressed as\
 $\Phi$<sub>E</sub> = $\oint\limits_S$ $\overrightarrow{E}$ . $\overrightarrow{dS}$ = Q<sub>in</sub>/ $\epsilon$<sub>o</sub>\
 $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically \
- $\overrightarrow{E}$= \frac {V}{$\overrightarrow{d}}$  
+$$ $\overrightarrow{E}$= \frac {V}{$\overrightarrow{d}$}$$  
  $$C= \frac{Q}{V} $$
  
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed}$$
