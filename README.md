@@ -6,8 +6,8 @@
 
 ## Day 2
 There are 2 parallel plate connected with a battery of "V" volts. Charges are uniformly distributed in both the plates . Let Q is the total charge in one plate and 
--Q is the net charge in another plate .
-Gauss's theorem mathemticallly expressed as
+-Q is the net charge in another plate .\
+Gauss's theorem mathemticallly expressed as\
 $\Phi$<sub>E</sub> = $\oint\limits_S$ $\overrightarrow{E}$ . $\overrightarrow{dS}$ = q/ $\epsilon$<sub>o</sub>
 
 
