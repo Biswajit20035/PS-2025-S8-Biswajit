@@ -21,7 +21,6 @@ where:
 - \(d\mathbf{A}\) is the outward-pointing unit normal vector on the surface \(S\)
 - \(\nabla \cdot \mathbf{F}\) is the divergence of \(\mathbf{F}\)
 
-$$  $\Phi$<sub>E</sub> = $\oint\limits_S$ $\overrightarrow{E}$ . $\overrightarrow{dS}$ = Q<sub>in</sub>/ $\epsilon$<sub>o</sub>\ $$ \
 $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
 
