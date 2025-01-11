@@ -5,8 +5,12 @@
 
 
 ## Day 2
-Lets consider 2 parallel plate connected with a battery of "V" volts. Charges are uniformly distributed in both the plates . Let Q is the total charge in one plate and 
--Q is the net charge in another plate .\
+Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection  Let the plate connected with the cathode of battery has total charge +Q on its surface and 
+the plate connected with the anode of battery has total charge -Q on its surface and the potential difference between on the plates are V1 and V2 respectively.
+Relation between total charge(Q) and potential difference between two parallel plates (V= V1-V2) can be mathematicaaly expressed as 
+
+ $$ q \propto V $$
+
 Gauss's theorem mathemticallly expressed as
 
 ### Gauss's Theorem (Divergence Theorem)
