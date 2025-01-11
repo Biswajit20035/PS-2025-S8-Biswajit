@@ -18,6 +18,11 @@ $$
 \frac{$\epsilon$<sub>o</sub>}{Ed}
 $$
 
+$$
+C = \epsilon_0 \cdot A \cdot E / (E \cdot d)
+$$
+
+
 
 
 
