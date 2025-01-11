@@ -20,6 +20,15 @@ $$
 $$
 
 
+C= 
+Missing close brace
+
+$$
+\frac{\epsilon_0 \cdot AE}{Ed}
+$$
+
+
+
 
 
 
