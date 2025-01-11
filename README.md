@@ -9,7 +9,7 @@ Lets consider 2 parallel plate connected with a battery of "V" volts. Charges ar
 -Q is the net charge in another plate .\
 Gauss's theorem mathemticallly expressed as\
 $\Phi$<sub>E</sub> = $\oint\limits_S$ $\overrightarrow{E}$ . $\overrightarrow{dS}$ = Q<sub>in</sub>/ $\epsilon$<sub>o</sub>\
-=>Q=E.A.$\epsilon$
+=>Q=$\epsilon$
 
 
 
