@@ -22,19 +22,21 @@ $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in
 
 $$ EA=  \frac{Q _{in}}{\epsilon_o} $$
 
-$$ Q=\overrightarrow{E}.A.\epsilon_o $$
+Q can be expressed as :
+
+$$ Q=\overrightarrow{E}.A.\epsilon_o ...................(3) $$
 
 
 $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
 
-$$ \overrightarrow{E} = \frac{V}{d}$$
+$$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
 
 From the equation 1 :
 
  $$C= \frac{Q}{V} $$
 
- Therefore the capacitance of the parallel plates can be expressed as:
+ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
  
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed}$$
 
