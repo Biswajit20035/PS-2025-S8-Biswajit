@@ -15,6 +15,8 @@ Assuming a large area and small separation "d" between plates , Electric feild b
 $$ \overrightarrow{E} = \frac{V}{d}$$
 
  $$C= \frac{Q}{V} $$
+
+ Therefore the capacitance of the parallel plates can be expressed as:
  
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed}$$
 
