@@ -27,6 +27,7 @@ $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
 
 $$ \overrightarrow{E} = \frac{V}{d}$$
+
 From the equation 1 :
 
  $$C= \frac{Q}{V} $$
