@@ -12,7 +12,9 @@ Relation between total charge on either plate and potential difference between t
 
 $$ Q \propto V $$
  
-Here the proportionality constant is the capacitance of the parallel plates :              $$ Q = CV .......................(1)$$  
+Here the proportionality constant is the capacitance of the parallel plates : 
+
+$$ Q = CV .......................(1)$$  
  
 We will apply Gauss's theorem to calculate the capacitance of the parallel plates .\
 Gauss Theorem can mathemticallly expressed as
@@ -29,7 +31,9 @@ Assuming a large area and small separation "d" between plates , Electric feild b
 
 $$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
 
-From the equation 1 Capacitance C can be expressed as  :  $$C= \frac{Q}{V} $$
+From the equation 1 Capacitance C can be expressed as  : 
+
+$$C= \frac{Q}{V} $$
 
 Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
 
