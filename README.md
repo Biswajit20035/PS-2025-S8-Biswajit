@@ -36,8 +36,6 @@ From the equation 1 Capacitance C can be :
 $$C= \frac{Q}{V} $$
 
 Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
- 
- $$ C=\frac{\epsilon_0 \cdot AE}{Ed}$$
 
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
 
