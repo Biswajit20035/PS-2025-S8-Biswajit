@@ -15,13 +15,10 @@ Relation between total charge(Q) and potential difference between two parallel p
  
  $$ Q = CV .......................(1)$$  
  
- 
-
 We will apply Gauss's theorem to calculate the capacitance of the paralle plates .\
 Gauss Theorem can mathemticallly expressed as
 
-
-$$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} $$
+$$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(2)$$
 
 $$ Q=\overrightarrow{E}.A.\epsilon_o $$
 
@@ -30,6 +27,7 @@ $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
 
 $$ \overrightarrow{E} = \frac{V}{d}$$
+From the equation 1 :
 
  $$C= \frac{Q}{V} $$
 
