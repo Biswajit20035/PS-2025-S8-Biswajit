@@ -20,6 +20,8 @@ Gauss Theorem can mathemticallly expressed as
 
 $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(2)$$
 
+$$ EA=  \frac{Q _{in}}{\epsilon_o} $$
+
 $$ Q=\overrightarrow{E}.A.\epsilon_o $$
 
 
