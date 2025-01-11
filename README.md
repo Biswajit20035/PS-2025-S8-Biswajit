@@ -22,6 +22,14 @@ $$
 C = \epsilon_0 \cdot A \cdot E / (E \cdot d)
 $$
 
+C= 
+Missing close brace
+
+$$
+C=\frac{\epsilon_0 \cdot AE}{Ed}
+$$
+
+
 
 
 
