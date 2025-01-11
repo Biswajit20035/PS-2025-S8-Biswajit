@@ -26,21 +26,19 @@ Q can be expressed as :
 
 $$ Q=\overrightarrow{E}.A.\epsilon_o ...................(3) $$
 
-
-$\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
 
 $$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
 
 From the equation 1 :
 
- $$C= \frac{Q}{V} $$
+$$C= \frac{Q}{V} $$
 
- Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
+Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
  
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed}$$
 
- $$ C= \frac{\epsilon_0 \cdot A}{d}$$
+ $$ C= \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
 
 
  
