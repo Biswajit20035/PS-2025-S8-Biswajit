@@ -15,7 +15,7 @@ Assuming a large area and small separation "d" between plates , Electric feild b
  C= $\frac{Q}{V}$ \
 C= 
 $$
-\frac{\epsilon_0 \cdot AE}{Ed}
+\frac{$\epsilon$<sub>o</sub>}{Ed}
 $$
 
 
