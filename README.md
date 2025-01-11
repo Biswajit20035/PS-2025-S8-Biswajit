@@ -12,8 +12,8 @@ $\Phi$<sub>E</sub> = $\oint\limits_S$ $\overrightarrow{E}$ . $\overrightarrow{dS
 $\epsilon$<sub>o</sub> .A.E \
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically \
  $\overrightarrow{E}$=  V /  $\overrightarrow{d}$ 
- C=Q/V\
- C= $\epsilon$<sub>o</sub> .A.E \ E.d
+ C= {Q\over V} 
+ C= $\epsilon$<sub>o</sub> .A.E / E.d
 
 
 
