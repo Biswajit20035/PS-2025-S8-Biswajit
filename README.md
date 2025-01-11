@@ -13,7 +13,7 @@ Gauss's theorem mathemticallly expressed as
 
 Gauss's Theorem states that the flux of a vector field **F** through a closed surface **S** is equal to the volume integral of the divergence of **F** over the region **V** enclosed by **S**.
 
-$$ $\Phi$<sub>E</sub> = $\oint\limits_S$ $\overrightarrow{E}$ . $\overrightarrow{dS}$ = Q<sub>in</sub>/ $\epsilon$<sub>o</sub> $$
+$$\Phi$<sub>E</sub> = $\oint\limits_S$ $\overrightarrow{E}$ . $\overrightarrow{dS}$ = Q<sub>in</sub>/ $\epsilon$<sub>o</sub> $$
 
 where:
 - \(\partial V\) is the closed surface bounding the volume \(V\)
