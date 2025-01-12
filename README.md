@@ -141,13 +141,30 @@ $$=34.515 \times 10^{-15}$$
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
 |----------|----------|----------|----------|----------|----------|----------|
-| Row 1    | C=89 K=1.005     | Row 1    | Row 1    | Row 1    | Row 1    | Row 1    |
-| Row 2    | Row 2    | Row 2    | Row 2    | Row 2    | Row 2    | Row 2    |
-| Row 3    | Row 3    | Row 3    | Row 3    | Row 3    | Row 3    | Row 3    |
-| Row 4    | Row 4    | Row 4    | Row 4    | Row 4    | Row 4    | Row 4    |
-| Row 5    | Row 5    | Row 5    | Row 5    | Row 5    | Row 5    | Row 5    |
-| Row 6    | Row 6    | Row 6    | Row 6    | Row 6    | Row 6    | Row 6    |
-| Row 7    | Row 7    | Row 7    | Row 7    | Row 7    | Row 7    | Row 7    |
+| Row 1    | C=89 K=1.005     | C=30 K=1.016   | C=18 K=1.016   | C=13 K=1.028   | C=10 K=1.016  | C=    |
+| Row 2    | C=456 K=5.15  | C=148 K=5.016| C=89 K=5.028   | C=64  K=5.062  | C=48 K=4.88    | C= K=   |
+| Row 3    | C=307 K=3.46  | C=104 K=3.52    | C=63 K=3.55    | C=45 K=3.55  | C=34  K=3.45  | C= K=   |
+| Row 4    | C=210 K=2.37   | C=67  K=2.27    | C=42  K=2.37    | C=28 K=2.21    | C=23 K=2.33   | Row 4    |
+| Row 5    | C=546   K=6.16 | C=188 K=6.37   |C=108   K=6.10    | C=80 K=6.32    | C=63  K=6.40    |C=  K=    |
+| Row 6    | c=601  k=6.79  | C=204 K=6.91    |C=121 K=6.83   | C=89   K=7.03    | C=68  k=6.91 | Row 6    |
+
+
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
+|----------|----------|----------|----------|----------|----------|----------|
+| Row 1    | C= 89 K=1.005|C=177 K=1|C=266 K=1.001|C=354 K=1     | C=443  K=1.001|
+| Row 2    | Data     | Data     | Data     | Data     | Data     | Data     |
+| Row 3    | Data     | Data     | Data     | Data     | Data     | Data     |
+| Row 4    | Data     | Data     | Data     | Data     | Data     | Data     |
+| Row 5    | Data     | Data     | Data     | Data     | Data     | Data     |
+| Row 6    | Data     | Data     | Data     | Data     | Data     | Data     |
+| Row 7    | Data     | Data     | Data     | Data     | Data     | Data     |
+
+
+
+
+
+
 
 
 
