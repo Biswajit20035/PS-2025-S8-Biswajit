@@ -26,11 +26,11 @@ The incremental resistance can be expressed as
 
 $$ \Delta R = \frac{\Delta V }{ I_R} =\rho  \frac{\Delta x}{W\cdot H} $$
 
-Total resistance of the material can be expressed as
+Total resistance of the material can be expressed as:
 
 $$ R = \rho \frac{L}{A} $$
 
-Here L and A are the length and cross sectional area (WH) of the block respectively .
+Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
 $$ R =\left( \frac{\rho}{h} \right)\cdot \left(\frac{l}{w} \right) $$
 
