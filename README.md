@@ -113,6 +113,10 @@ To calculate c1=
 
 $$ C= \frac {\epsilon_o.A.K}{d} $$
 
+$$=\frac{ 8.85 \times 10^{-12}  * 100 \times 10^{-8}  * 3.9}{1*10^-6} $$
+
+   
+
 
  
 
