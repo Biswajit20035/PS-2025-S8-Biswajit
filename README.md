@@ -36,7 +36,7 @@ $$\Delta R = \frac{\Delta v}{ I_R}$$
 $$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\nabla v \cdot \nabla x}{q_s \mu \cdot \nabla v}=\frac{\nabla x}{q_s \cdot \mu}=\frac{\nabla x}{n \cdot a \cdot \mu}=\frac{\rho \cdot \nabla x}{a}$$
 
 
-$$R = \sum \delta R=\sum \frac{\rho \cdot \nabla x}{a}=\frac{\rho}{a} \sum \nabla x=$$\frac{\rho}{a} \sum \nabla x$$
+$$R = \sum \delta R=\sum \frac{\rho \cdot \nabla x}{a}=\frac{\rho}{a} \sum \nabla x=\frac{\rho}{a} \sum \nabla x$$
 
 
 
@@ -49,7 +49,8 @@ $$R = \sum \delta R=\sum \frac{\rho \cdot \nabla x}{a}=\frac{\rho}{a} \sum \nabl
 
 Total resistance of the material can be expressed as:
 
-$$ R =c $$
+$$R = \frac{\rho \cdot l}{a}$$
+
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
