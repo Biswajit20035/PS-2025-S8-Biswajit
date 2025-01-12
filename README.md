@@ -29,7 +29,7 @@ $$ \Delta R = \frac{\Delta V }{ I_R} = \frac{\rho \cdot \Delta x}{W\cdot H} $$
 
 Total resistance of the material can be expressed as
 
-$$ R = \frac{\rho l}{a} $$
+$$ R = \rho \frac{L}{A} $$
 
 
 
