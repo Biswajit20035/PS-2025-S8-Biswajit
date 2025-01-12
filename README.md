@@ -119,7 +119,7 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 ){:width="500" height="300"}
 
 
-<img src="![Capacitance of blockes](https://github.com/user-attachments/assets/4e5d9728-475b-4730-8c13-9294bef9fb45)
+<img src="https://github.com/user-attachments/assets/4e5d9728-475b-4730-8c13-9294bef9fb45
 " alt="Tiny Image" width="100"/>
 
 
