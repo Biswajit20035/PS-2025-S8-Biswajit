@@ -26,7 +26,7 @@ $$ v_d= \frac{\Delta x}{\Delta t}  =\mu E  $$
 $E= \frac{\Delta v}{\Delta x}$  mobility of free charges inside the material.
 Therefore,
 
-$$I_R = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x} $$
+$$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x} $$
 
 
 The incremental resistance can be expressed as
