@@ -6,8 +6,6 @@
    <img src="https://github.com/user-attachments/assets/c156504e-aa2f-4d54-9583-70e9134ee6c7" alt="Description" width="600" height="400"/>
 </p>
 
-![Resistance of a block](https://github.com/user-attachments/assets/c156504e-aa2f-4d54-9583-70e9134ee6c7)
-
 Consider a block of metal or semiconductor material with dimensions L,W, and H .\
 Let n= Free charges per unit volume. 
 A battery of "V" volts connected across the block .To calculate the current I<sub>R</sub> for an applied voltage 
