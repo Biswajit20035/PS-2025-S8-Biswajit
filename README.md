@@ -7,7 +7,7 @@
 </p>
 
 Consider a block of metal or semiconductor material with dimensions L,W, and H .\
-Let n= Free charges per unit volume. 
+Let N= Free charges per unit volume. 
 A battery of "V" volts connected across the block .To calculate the current I<sub>R</sub> for an applied voltage 
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
@@ -36,7 +36,7 @@ The incremental resistance can be expressed as :
 
 $$\Delta R = \frac{\Delta V}{ I_R}$$
 
-$$ =\frac{\Delta V}{\mu Q_S \cdot \frac{\Delta V}{\Delta X}}=\frac{\Delta V \cdot \Delta X}{Q_S \mu \cdot \Delta V}=\frac{\Delta X}{Q_S \cdot \mu}=\frac{\Delta X}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta X}{A}$$
+$$ =\frac{\Delta V}{\mu Q_S \cdot \frac{\Delta V}{\Delta X}}=\frac{\Delta V \cdot \Delta X}{Q_S \mu \cdot \Delta V}=\frac{\Delta X}{Q_S \cdot \mu}=\frac{\Delta X}{N A \mu}=\frac{\rho \cdot \Delta X}{A}$$
 
 Total resistance of the material can be expressed as:
 
