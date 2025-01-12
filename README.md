@@ -111,11 +111,17 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 
 To calculate c1=
 
-$$ C= \frac {\epsilon_o.A.K}{d} $$
+$$ C_1= \frac {\epsilon_o.A.K}{d} $$
 
 $$=\frac{ 8.85 \times 10^{-12}  * 100 \times 10^{-6} *1 \times10^{-6} * 3.9}{1 \times 10^{-6}} $$
 
-$$=3.4515 * 10 \times 10^{-15}
+$$=3.4515 * 10 \times 10^{-15}$$
+
+$$C_2=\frac {\epsilon_o.A.K}{d} $$
+
+$$=\frac{ 8.85 \times 10^{-12}  * 100 \times 10^{-6} *1 \times10^{-6} * 3.9}{0.1\times 10^{-6}} $$
+
+$$=34.515 * 10 \times 10^{-15}$$
 
    
 
