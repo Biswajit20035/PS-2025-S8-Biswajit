@@ -18,10 +18,10 @@ or,
 
 $$I_R=SheetCharge* AverageVelocity$$
 
-$$Where q_s = nwh = A$$
+Here 
 
+$$Q_s =Sheet charge or the free charges per unit lemgth= nwh = A$$
 
-where, Q<sub>S</sub>    =  nWh is the sheet-charge or the charge per unit length,\
 v<sub>d</sub>  is the average velocity of free charges:
 
 $$ v_d= \frac{\Delta x}{\Delta t}  =\mu E  $$
