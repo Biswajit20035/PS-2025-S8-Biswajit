@@ -26,10 +26,12 @@ v<sub>d</sub>  is the average velocity of free charges:
 
 $$ v_d= \frac{\Delta x}{\Delta t}  =\mu E ....................................................................(iii) $$
 
-$E= \frac{\Delta v}{\Delta x}$  mobility of free charges inside the material.
-Therefore,
+$$E= \frac{\Delta v}{\Delta x}.................................................................................(iv)$$ 
 
-$$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}................................(iv) $$
+mobility of free charges inside the material.
+Therefore from equation (i),(iii) and (iv)
+
+$$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}................................(v) $$
 
 
 The incremental resistance can be expressed as
