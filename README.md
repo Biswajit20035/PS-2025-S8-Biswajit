@@ -126,7 +126,7 @@ $$C_2=\frac {\epsilon_o.A.K}{d} $$
 
 $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} $$
 
-| Dielctrics| A=5000 mm<sup>2</sup> D= 0.5mm| A=5000 mm<sup>2</sup> D= 1.5mm|  A=5000 mm<sup>2</sup>      D= 2.5mm |  A=5000 mm<sup>2</sup> D= 3.5mm |  A=5000 mm<sup>2</sup> D= 4.5mm |  A=5000 mm<sup>2</sup> D= 5mm|
+| Dielctrics| A=5000 mm<sup>2</sup> D= 0.5mm| A=5000 mm<sup>2</sup>\ D= 1.5mm|  A=5000 mm<sup>2</sup> D= 2.5mm |  A=5000 mm<sup>2</sup> D= 3.5mm |  A=5000 mm<sup>2</sup> D= 4.5mm |  A=5000 mm<sup>2</sup> D= 5mm|
 |----------|----------|----------|----------|----------|----------|----------|
 | Air  | C=89 K=1.005     | C=30 K=1.016   | C=18 K=1.016   | C=13 K=1.028   | C=10 K=1.016  | C=9 K=1.016    |
 | Mica  | C=456 K=5.15  | C=148 K=5.016| C=89 K=5.028   | C=64  K=5.062  | C=48 K=4.88    | C=45 K=5.08   |
