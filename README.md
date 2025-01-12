@@ -33,11 +33,12 @@ $$ \Delta R = \frac{\Delta V }{ I_R} =\rho  \frac{\Delta x}{W\cdot H} $$
 
 $$\Delta R = \frac{\Delta v}{ I_R}$$
 
-$$ =\frac{\Delta x}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\nabla v \cdot \nabla x}{q_s \mu \cdot \nabla v}$$
+$$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\nabla v \cdot \nabla x}{q_s \mu \cdot \nabla v}=\frac{\nabla x}{q_s \cdot \mu}$$
+
  
  
 
-$$\frac{\nabla v \cdot \nabla x}{q_s \mu \cdot \nabla v}$$
+
 
 
 Total resistance of the material can be expressed as:
