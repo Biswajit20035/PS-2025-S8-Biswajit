@@ -30,11 +30,11 @@ $$E= \frac{\Delta V}{\Delta X}..................................................
 
 Therefore from equation (i),(iii) and (iv)
 
-$$I_R =Q_SV_D= q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}....................................(v) $$
+$$I_R =Q_SV_D= Q_S \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta V}{\Delta X}....................................(v) $$
 
-The incremental resistance can be expressed as
+The incremental resistance can be expressed as :
 
-$$\Delta R = \frac{\Delta v}{ I_R}$$
+$$\Delta R = \frac{\Delta V}{ I_R}$$
 
 $$ =\frac{\Delta V}{\mu Q_S \cdot \frac{\Delta V}{\Delta X}}=\frac{\Delta V \cdot \Delta X}{Q_S \mu \cdot \Delta V}=\frac{\Delta X}{Q_S \cdot \mu}=\frac{\Delta X}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta X}{A}$$
 
@@ -46,7 +46,7 @@ Here L and A are the length and cross-sectional area (WH) of the block respectiv
 
 $$ R =\left( \frac{\rho}{H} \right)\cdot \left(\frac{L}{W} \right) $$
 
-$\frac{\rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
+$\frac{\Rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
 
 
 Calculate the resistance of an aluminum wire with the following dimension:
