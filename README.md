@@ -107,28 +107,19 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
 
-
-
-
 * Calculate   C1  and C2 of the image
  <p align="center">
    <img src="https://github.com/user-attachments/assets/1eb4bfff-6368-469d-bfcd-5d40f87470b8" alt="Description" width="600" height="400"/>
 </p>
-
 To calculate c1=
 
 $$ C_1= \frac {\epsilon_o.A.K}{d} $$
 
-$$=\frac{ 8.85 \times 10^{-12}  \times  100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} $$                            
-
-$$=3.4515  \times 10^{-15}$$
+$$=\frac{ 8.85 \times 10^{-12}  \times  100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515  \times 10^{-15}$$                            
 
 $$C_2=\frac {\epsilon_o.A.K}{d} $$
 
-$$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}} $$
-
-$$=34.515 \times 10^{-15}$$
-
+$$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} $$
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
 |----------|----------|----------|----------|----------|----------|----------|
