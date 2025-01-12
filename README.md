@@ -30,13 +30,13 @@ $$E= \frac{\Delta V}{\Delta X}..................................................
 
 Therefore from equation (i),(iii) and (iv)
 
-$$I_R =Q_SV_D= Q_S\mu E= \mu Q_S \cdot \frac{\Delta V}{\Delta X}....................................(v) $$
+$$I_R =Q_SV_D= Q_S\mu E= \mu Q_S \frac{\Delta V}{\Delta X}....................................(v) $$
 
 The incremental resistance can be expressed as :
 
 $$\Delta R = \frac{\Delta V}{ I_R}$$
 
-$$ =\frac{\Delta V}{\mu Q_S \cdot \frac{\Delta V}{\Delta X}}=\frac{\Delta V \cdot \Delta X}{Q_S \mu \cdot \Delta V}=\frac{\Delta X}{Q_S \cdot \mu}=\frac{\Delta X}{N A \mu}=\frac{\rho \cdot \Delta X}{A}$$
+$$ =\frac{\Delta V}{\mu Q_S \frac{\Delta V}{\Delta X}}=\frac{\Delta V \Delta X}{Q_S \mu\Delta V}=\frac{\Delta X}{Q_S \mu}=\frac{\Delta X}{N A \mu}=\frac{\rho \Delta X}{A}$$
 
 Total resistance of the material can be expressed as:
 
