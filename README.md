@@ -30,7 +30,7 @@ $$E= \frac{\Delta V}{\Delta X}..................................................
 
 Therefore from equation (i),(iii) and (iv)
 
-$$I_R =Q_SV_D= Q_S \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta V}{\Delta X}....................................(v) $$
+$$I_R =Q_SV_D= Q_S\mu E= \mu Q_S \cdot \frac{\Delta V}{\Delta X}....................................(v) $$
 
 The incremental resistance can be expressed as :
 
