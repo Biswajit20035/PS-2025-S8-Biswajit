@@ -20,16 +20,16 @@ $$I_R=SheetCharge* AverageVelocity$$
 
 Here Q_s is the Sheet charge or the Free charges per unit length
 
-$$Q_s= nwh = A$$..............................................................................................(ii)
+$$Q_s= nwh = A..............................................................................................(ii)$$
 
 v<sub>d</sub>  is the average velocity of free charges:
 
-$$ v_d= \frac{\Delta x}{\Delta t}  =\mu E  $$
+$$ v_d= \frac{\Delta x}{\Delta t}  =\mu E ....................................................................(iii) $$
 
 $E= \frac{\Delta v}{\Delta x}$  mobility of free charges inside the material.
 Therefore,
 
-$$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x} $$
+$$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}................................(iv) $$
 
 
 The incremental resistance can be expressed as
