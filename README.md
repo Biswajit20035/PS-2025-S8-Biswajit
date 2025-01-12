@@ -139,6 +139,18 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 $$=34.515 \times 10^{-15}$$
 
 
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
+|----------|----------|----------|----------|----------|----------|----------|
+| Row 1    | Row 1    | Row 1    | Row 1    | Row 1    | Row 1    | Row 1    |
+| Row 2    | Row 2    | Row 2    | Row 2    | Row 2    | Row 2    | Row 2    |
+| Row 3    | Row 3    | Row 3    | Row 3    | Row 3    | Row 3    | Row 3    |
+| Row 4    | Row 4    | Row 4    | Row 4    | Row 4    | Row 4    | Row 4    |
+| Row 5    | Row 5    | Row 5    | Row 5    | Row 5    | Row 5    | Row 5    |
+| Row 6    | Row 6    | Row 6    | Row 6    | Row 6    | Row 6    | Row 6    |
+| Row 7    | Row 7    | Row 7    | Row 7    | Row 7    | Row 7    | Row 7    |
+
+
+
 
 
    
