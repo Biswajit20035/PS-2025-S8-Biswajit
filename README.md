@@ -2,6 +2,18 @@
 ## Day 1
 *ps*: [firstday.pdf](https://www.dropbox.com/scl/fi/vpwb0qvgaxr6g17kae5om/PS-Day-1.pdf?rlkey=spzuaq1qmbvnl727y1y9kd41t&st=sjkp1z95&dl=0)
 ![2Parallel_Plate_capacitor](https://github.com/user-attachments/assets/00b3d137-a7a9-4e26-9211-737544bf3465)
+Consider a block of metal or semiconductor material with dimensions L,W, and H as shown in Figure 2.1. Let 
+n= Free charges per unit volume. 
+A battery of "V" volts connected across the block .To calculate the current I<sub>R</sub> for an applied voltage 
+ across the length of the material, we will consider an incremental cross section of the material with length 
+. The current can be written as the total charge in the incremental volume in time 
+
+$$I = \frac{\Delta q}{\Delta t} or I<sub>R</sub>= SheetCharge* Average Velocity $$
+
+
+
+:
+
 
 
 ## Day 2
