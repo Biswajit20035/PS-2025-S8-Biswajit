@@ -12,7 +12,7 @@ A battery of "V" volts connected across the block .To calculate the current I<su
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
 
-$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs\frac{\Delta X}{\Delta T}=Q_SV_D ............................(i)$$
+$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs\frac{\Delta X}{\Delta T}=Q_SV_D ...............................(i)$$
 
 or,
 
@@ -24,13 +24,13 @@ $$Q_S= nWH = A....................................(ii)$$
 
 v<sub>d</sub>  is the average velocity of free charges:
 
-$$ V_D= \frac{\Delta X}{\Delta T}  =\mu E .......................................(iii) $$
+$$ V_D= \frac{\Delta X}{\Delta T}  =\mu E ....................................................(iii) $$
 
-$$E= \frac{\Delta V}{\Delta X}....................................................(iv)$$ 
+$$E= \frac{\Delta V}{\Delta X}................................................................(iv)$$ 
 
 Therefore from equation (i),(iii) and (iv)
 
-$$I_R =Q_SV_D= Q_S\mu E= \mu Q_S \frac{\Delta V}{\Delta X}...........................(v) $$
+$$I_R =Q_SV_D= Q_S\mu E= \mu Q_S \frac{\Delta V}{\Delta X}.....................................(v) $$
 
 The incremental resistance can be expressed as :
 
@@ -40,7 +40,7 @@ $$ =\frac{\Delta V}{\mu Q_S \frac{\Delta V}{\Delta X}}=\frac{\Delta V \Delta X}{
 
 Total resistance of the material can be expressed as:
 
-$$R = \sum \Delta R=\sum \frac{\rho\Delta X}{A}=\frac{\rho}{A} \sum \Delta X=\frac{\rho L}{A}......................................(vi)$$
+$$R = \sum \Delta R=\sum \frac{\rho\Delta X}{A}=\frac{\rho}{A} \sum \Delta X=\frac{\rho L}{A}.................................................(vi)$$
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
