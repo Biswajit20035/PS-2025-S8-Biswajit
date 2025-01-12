@@ -36,7 +36,7 @@ $$\Delta R = \frac{\Delta v}{ I_R}$$
 $$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\Delta v \cdot \Delta x}{q_s \mu \cdot \Delta v}=\frac{\Delta x}{q_s \cdot \mu}=\frac{\Delta x}{n \cdot a \cdot \mu}=\frac{\rho \cdot \Delta x}{a}$$
 
 
-$$R = \sum \delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}$$
+$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}$$
 
 
 
