@@ -152,7 +152,7 @@ $$=34.515 \times 10^{-15}$$
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
 |----------|----------|----------|----------|----------|----------|----------|
-| Row 1    | C= 89 K=1.005|C=177 K=1|C=266 K=1.001|C=354 K=1     | C=443  K=1.001|
+| Row 1    | C= 89 \ K=1.005|C=177 K=1|C=266 K=1.001|C=354 K=1     | C=443  K=1.001|
 | Row 2    | Data     | Data     | Data     | Data     | Data     | Data     |
 | Row 3    | Data     | Data     | Data     | Data     | Data     | Data     |
 | Row 4    | Data     | Data     | Data     | Data     | Data     | Data     |
