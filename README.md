@@ -38,6 +38,15 @@ $$ R =\left( \frac{\rho}{h} \right)\cdot \left(\frac{l}{w} \right) $$
 $\frac{\rho}{h}$ is called sheet-rho( $\rho_{sheet}$)
 
 
+Calculate the resistance of an aluminum wire with the following dimension:
+L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
+
+
+
+
+
+
+
 
 
 
