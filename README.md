@@ -31,6 +31,10 @@ Total resistance of the material can be expressed as
 
 $$ R = \rho \frac{L}{A} $$
 
+Here L and A are the length and cross sectional area (WH) of the block respectively .
+
+$$ r = \frac{\rho h}{l \cdot w} $$
+
 
 
 
