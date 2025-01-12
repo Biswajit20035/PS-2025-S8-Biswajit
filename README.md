@@ -12,7 +12,7 @@ A battery of "V" volts connected across the block .To calculate the current I<su
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
 
-$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs \cdot \frac{\Delta X}{\Delta T}=Q_SV_D ............................(i)$$
+$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs\frac{\Delta X}{\Delta T}=Q_SV_D ............................(i)$$
 
 or,
 
@@ -40,11 +40,11 @@ $$ =\frac{\Delta V}{\mu Q_S \frac{\Delta V}{\Delta X}}=\frac{\Delta V \Delta X}{
 
 Total resistance of the material can be expressed as:
 
-$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta X}{A}=\frac{\rho}{A} \sum \Delta X=\frac{\rho \cdot L}{A}...................(vi)$$
+$$R = \sum \Delta R=\sum \frac{\rho\Delta X}{A}=\frac{\rho}{A} \sum \Delta X=\frac{\rho L}{A}...................(vi)$$
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
-$$ R =\left( \frac{\rho}{H} \right)\cdot \left(\frac{L}{W} \right) $$
+$$ R =\left( \frac{\rho}{H} \right) \left(\frac{L}{W} \right) $$
 
 $\frac{\Rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
 
