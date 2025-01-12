@@ -14,7 +14,7 @@ or,
 $$I_R=SheetCharge* AverageVelocity$$
 
 where, Q<sub>S<\sub>= nWh is the sheet-charge or the charge per unit length,\
-v<sub>d<\sub> is the average velocity of the electrons:
+$ v_d $ is the average velocity of the electrons:
 
 $$ v_d= \frac{\Delta x}{\Delta t}  =\mu E  $$
 
