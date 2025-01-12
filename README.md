@@ -31,7 +31,11 @@ The incremental resistance can be expressed as
 
 $$ \Delta R = \frac{\Delta V }{ I_R} =\rho  \frac{\Delta x}{W\cdot H} $$
 
-$$\Delta r = \frac{\Delta v}{ I_R}$$
+$$\Delta R = \frac{\Delta v}{ I_R}$$
+
+$$ =\frac{\Delta x}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}} $$
+ 
+
 
 
 Total resistance of the material can be expressed as:
