@@ -25,7 +25,7 @@ Therefore,
 $$I_R= \mu Q_S \cdot \frac{\Delta v}{\Delta x}  $$
 The incremental resistance can be expressed as
 
-$$ \Delta R = \frac{\Delta V }{ I_R} = \frac{\rho \cdot \Delta x}{W\cdot H} $$
+$$ \Delta R = \frac{\Delta V }{ I_R} =\rho  \frac{\Delta x}{W\cdot H} $$
 
 Total resistance of the material can be expressed as
 
