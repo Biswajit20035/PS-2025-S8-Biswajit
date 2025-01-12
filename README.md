@@ -1,8 +1,8 @@
 # PS-2025-S8-Biswajit
 ## Day 1
 *ps*: [firstday.pdf](https://www.dropbox.com/scl/fi/vpwb0qvgaxr6g17kae5om/PS-Day-1.pdf?rlkey=spzuaq1qmbvnl727y1y9kd41t&st=sjkp1z95&dl=0)
-Consider a block of metal or semiconductor material with dimensions L,W, and H as shown in Figure 2.1. Let 
-n= Free charges per unit volume. 
+Consider a block of metal or semiconductor material with dimensions L,W, and H .\
+Let n= Free charges per unit volume. 
 A battery of "V" volts connected across the block .To calculate the current I<sub>R</sub> for an applied voltage 
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
@@ -13,7 +13,7 @@ or,
 
 $$I_R=SheetCharge* AverageVelocity$$
 
-where, Q<sub>S<\sub>= nWh is the sheet-charge or the charge per unit length,\
+where, Q<sub>S<\sub>  =  nWh is the sheet-charge or the charge per unit length,\
 v<sub>d</sub>  is the average velocity of the electrons:
 
 $$ v_d= \frac{\Delta x}{\Delta t}  =\mu E  $$
