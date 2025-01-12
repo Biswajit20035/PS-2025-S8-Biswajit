@@ -108,8 +108,10 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
 
  
-![description](![Capacitance of blockes](https://github.com/user-attachments/assets/683911ef-6514-40f2-af04-997115a808b4)
-){:width="50" height="30"}
+
+<img src="![Capacitance of blockes](https://github.com/user-attachments/assets/0925d49a-df5d-4b2d-8c84-dbd3a09a9787)
+" alt="description" width="50" height="30">
+
 
 
 
