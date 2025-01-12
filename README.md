@@ -12,7 +12,7 @@ A battery of "V" volts connected across the block .To calculate the current I<su
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
 
-$$I_R = \frac{\Delta Q}{\Delta t}= \Delta Qs \cdot \frac{\Delta x}{\Delta t}=Q_S.V_d .......................(i)$$
+$$I_R = \frac{\Delta Q}{\Delta t}= \Delta Qs \cdot \frac{\Delta x}{\Delta t}=Q_S.V_d ............................(i)$$
 
 or,
 
@@ -20,17 +20,17 @@ $$I_R=SheetCharge* AverageVelocity$$
 
 Here Q_s is the Sheet charge or the Free charges per unit length
 
-$$Q_s= nWH = A..................................(ii)$$
+$$Q_s= nWH = A....................................(ii)$$
 
 v<sub>d</sub>  is the average velocity of free charges:
 
-$$ v_d= \frac{\Delta x}{\Delta t}  =\mu E ....................................(iii) $$
+$$ v_d= \frac{\Delta x}{\Delta t}  =\mu E .......................................(iii) $$
 
-$$E= \frac{\Delta v}{\Delta x}.................................................................................(iv)$$ 
+$$E= \frac{\Delta v}{\Delta x}.........................................................(iv)$$ 
 
 Therefore from equation (i),(iii) and (iv)
 
-$$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}................................(v) $$
+$$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}....................................(v) $$
 
 The incremental resistance can be expressed as
 
@@ -40,7 +40,7 @@ $$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\Delta v \cdo
 
 Total resistance of the material can be expressed as:
 
-$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}.................(vi)$$
+$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}...................(vi)$$
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
