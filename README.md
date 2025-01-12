@@ -112,7 +112,7 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
 
-* Calculate   C1  and C2 of the image
+* Calculate  C1  and C2 of the image
  <p align="center">
    <img src="https://github.com/user-attachments/assets/1eb4bfff-6368-469d-bfcd-5d40f87470b8" alt="Description" width="600" height="400"/>
 </p>
@@ -149,11 +149,6 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 | Procelain  |C=546 K=6.16| C=1104 K=6.23     | C= 1689 K=6.36     | C=1 K=0.0028| C=1 K=0.0022| 
 | Glass    |C=601 K=6.79|C=1264 K=7.141     | C=1877 K=7.069     | C=1 K=0.0028     |C=1 K=0.0022  |    
 
-  +---[Resistor]---+
-  |                |
---+--(Battery)-----+---(LED)---Ground
-  |                |
-  +----------------+
 
 
 
