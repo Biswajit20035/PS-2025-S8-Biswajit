@@ -26,7 +26,7 @@ v<sub>d</sub>  is the average velocity of free charges:
 
 $$ V_D= \frac{\Delta X}{\Delta T}  =\mu E ....................................................(iii) $$
 
-$$E= \frac{\Delta V}{\Delta X}................................................................(iv)$$ 
+$$E= \frac{\Delta V}{\Delta X}...........................................(iv)$$ 
 
 Therefore from equation (i),(iii) and (iv)
 
@@ -44,7 +44,7 @@ $$R = \sum \Delta R=\sum \frac{\rho\Delta X}{A}=\frac{\rho}{A} \sum \Delta X=\fr
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
-$$ R =\left( \frac{\rho}{H} \right) \left(\frac{L}{W} \right) $$
+$$ R =\left( \frac{\rho}{H} \right) \left(\frac{L}{W} \right)....................................................(vii) $$
 
 $\frac{\rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
 
