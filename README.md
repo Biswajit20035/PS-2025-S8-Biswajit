@@ -40,7 +40,7 @@ $$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\Delta v \cdo
 
 Total resistance of the material can be expressed as:
 
-$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}$$
+$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}.................(vi)$$
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
