@@ -25,7 +25,7 @@ Therefore,
 $$I_R= \mu Q_S \cdot \frac{\Delta v}{\Delta x}  $$
 The incremental resistance can be expressed as
 
-$$ \Delta R = \frac{\Delta V }{ r} $$
+$$ \Delta R = \frac{\Delta V }{ I_R} $$
 
 
 
