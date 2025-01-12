@@ -46,7 +46,7 @@ Here L and A are the length and cross-sectional area (WH) of the block respectiv
 
 $$ R =\left( \frac{\rho}{H} \right) \left(\frac{L}{W} \right) $$
 
-$\frac{\Rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
+$\frac{\rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
 
 
 Calculate the resistance of an aluminum wire with the following dimension:
