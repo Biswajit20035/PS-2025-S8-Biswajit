@@ -41,9 +41,9 @@ Calculate the resistance of an aluminum wire with the following dimension:
 L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
 | Material | Resistivity in μm | Resistance | Sheet-row | Melting point | Cost/10 gram | Temprature coefficient of resistance |
 |----------|----------|----------|----------|----------|----------|----------|
-| Aluminium    | 2.65     | Data     | Data     | Data     | Data     | 0.00429     |
-| Copper   | 1.68 | Data     | Data     | Data     | Data     | 0.00393   |
-| Gold | 2.44| Data     | Data     | Data     | Data     | Data     | 0.0034
+| Aluminium    | 2.65     | 26.5     | Data     | Data     | Data     | 0.00429     |
+| Copper   | 1.68 | 16.8    | Data     | Data     | Data     | 0.00393   |
+| Gold | 2.44| 24.4  | Data     | Data     | Data     | Data     | 0.0034
 
 
 
@@ -106,6 +106,12 @@ $$C= \frac{Q}{V} $$
 Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
 
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
+
+ ![Alt text](URL)
+
+To calculate c1=
+
+$$ C= \frac {\epsilon_o.A.K}{d} $$
 
 
  
