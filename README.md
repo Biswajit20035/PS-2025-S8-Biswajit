@@ -18,9 +18,9 @@ or,
 
 $$I_R=SheetCharge* AverageVelocity$$
 
-Here 
+Here Q_s is the Sheet charge or the Free charges per unit length
 
-$$Q_s =Sheet charge or the free charges per unit lemgth= nwh = A$$
+$$Q_s= nwh = A$$
 
 v<sub>d</sub>  is the average velocity of free charges:
 
