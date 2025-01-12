@@ -126,7 +126,7 @@ $$C_2=\frac {\epsilon_o.A.K}{d} $$
 
 $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} $$
 
-| Dielctrics| A=$ 5000 m^2 $| Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
+| Dielctrics| A=5000 mm<sub>2</sub>| Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
 |----------|----------|----------|----------|----------|----------|----------|
 | Air  | C=89 K=1.005     | C=30 K=1.016   | C=18 K=1.016   | C=13 K=1.028   | C=10 K=1.016  | C=9 K=1.016    |
 | Mica  | C=456 K=5.15  | C=148 K=5.016| C=89 K=5.028   | C=64  K=5.062  | C=48 K=4.88    | C=45 K=5.08   |
