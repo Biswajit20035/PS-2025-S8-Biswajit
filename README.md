@@ -1,6 +1,13 @@
 # PS-2025-S8-Biswajit
 ## Day 1
 *ps*: [firstday.pdf](https://www.dropbox.com/scl/fi/vpwb0qvgaxr6g17kae5om/PS-Day-1.pdf?rlkey=spzuaq1qmbvnl727y1y9kd41t&st=sjkp1z95&dl=0)
+
+ <p align="center">
+   <img src="https://github.com/user-attachments/assets/59d3b7a4-4baf-440c-811e-16b5cd4ca9cd
+" alt="Description" width="600" height="400"/>
+</p>
+
+
 Consider a block of metal or semiconductor material with dimensions L,W, and H .\
 Let n= Free charges per unit volume. 
 A battery of "V" volts connected across the block .To calculate the current I<sub>R</sub> for an applied voltage 
