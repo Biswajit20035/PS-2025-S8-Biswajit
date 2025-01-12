@@ -110,11 +110,9 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 
 
 
-Calculate  $ C1 $ 
-
+* Calculate   C1  and C2 of the image 
  <p align="right">
-  <img src="https://github.com/user-attachments/assets/1eb4bfff-6368-469d-bfcd-5d40f87470b8" alt="Description" width="400" height="400"/>
-
+  <img src="https://github.com/user-attachments/assets/1eb4bfff-6368-469d-bfcd-5d40f87470b8" alt="Description" width="600" height="400"/>
 </p>
 To calculate c1=
 
