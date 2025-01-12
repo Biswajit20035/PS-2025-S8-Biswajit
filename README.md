@@ -33,7 +33,8 @@ $$ \Delta R = \frac{\Delta V }{ I_R} =\rho  \frac{\Delta x}{W\cdot H} $$
 
 $$\Delta R = \frac{\Delta v}{ I_R}$$
 
-$$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\nabla v \cdot \nabla x}{q_s \mu \cdot \nabla v}=\frac{\nabla x}{q_s \cdot \mu}=\frac{\nabla x}{n \cdot a \cdot \mu}$$
+$$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\nabla v \cdot \nabla x}{q_s \mu \cdot \nabla v}=\frac{\nabla x}{q_s \cdot \mu}=\frac{\nabla x}{n \cdot a \cdot \mu}=\frac{\rho \cdot \nabla x}{a}$$
+
 
 
  
