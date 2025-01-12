@@ -11,7 +11,8 @@ A battery of "V" volts connected across the block .To calculate the current I<su
 $$I_R = \frac{\Delta Q}{\Delta t}= Qs \cdot \frac{\Delta x}{\Delta t} $$
 
 or,
-I_R=SheetCharge* AverageVelocity
+
+$$I_R=SheetCharge* AverageVelocity$$
 
 
 
