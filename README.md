@@ -44,7 +44,6 @@ L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
 | Row 1    | Data     | Data     | Data     | Data     | Data     | Data     |
 | Row 2    | Data     | Data     | Data     | Data     | Data     | Data     |
 | Row 3    | Data     | Data     | Data     | Data     | Data     | Data     |
-| Row 4    | Data     | Data     | Data     | Data     | Data     | Data     |
 
 
 
