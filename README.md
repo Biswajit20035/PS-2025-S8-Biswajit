@@ -26,11 +26,11 @@ v<sub>d</sub>  is the average velocity of free charges:
 
 $$ V_D= \frac{\Delta X}{\Delta T}  =\mu E .......................................(iii) $$
 
-$$E= \frac{\Delta V}{\Delta X}.........................................................(iv)$$ 
+$$E= \frac{\Delta V}{\Delta X}....................................................(iv)$$ 
 
 Therefore from equation (i),(iii) and (iv)
 
-$$I_R =Q_SV_D= Q_S\mu E= \mu Q_S \frac{\Delta V}{\Delta X}....................................(v) $$
+$$I_R =Q_SV_D= Q_S\mu E= \mu Q_S \frac{\Delta V}{\Delta X}...........................(v) $$
 
 The incremental resistance can be expressed as :
 
