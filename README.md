@@ -29,8 +29,6 @@ Therefore,
 $$I_R= \mu Q_S \cdot \frac{\Delta v}{\Delta x}  $$
 The incremental resistance can be expressed as
 
-$$ \Delta R = \frac{\Delta V }{ I_R} =\rho  \frac{\Delta x}{W\cdot H} $$
-
 $$\Delta R = \frac{\Delta v}{ I_R}$$
 
 $$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\Delta v \cdot \Delta x}{q_s \mu \cdot \Delta v}=\frac{\Delta x}{q_s \cdot \mu}=\frac{\Delta x}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta x}{A}$$
