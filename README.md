@@ -28,11 +28,9 @@ $$ v_d= \frac{\Delta x}{\Delta t}  =\mu E ....................................(i
 
 $$E= \frac{\Delta v}{\Delta x}.................................................................................(iv)$$ 
 
-mobility of free charges inside the material.
 Therefore from equation (i),(iii) and (iv)
 
 $$I_R =Q_S.V_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}................................(v) $$
-
 
 The incremental resistance can be expressed as
 
@@ -40,6 +38,7 @@ $$\Delta R = \frac{\Delta v}{ I_R}$$
 
 $$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\Delta v \cdot \Delta x}{q_s \mu \cdot \Delta v}=\frac{\Delta x}{q_s \cdot \mu}=\frac{\Delta x}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta x}{A}$$
 
+Effective R can be expressed as:
 
 $$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}$$
 
