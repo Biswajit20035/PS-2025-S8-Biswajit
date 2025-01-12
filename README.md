@@ -114,13 +114,6 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 ![Capacitance of blockes](https://github.com/user-attachments/assets/1eb4bfff-6368-469d-bfcd-5d40f87470b8)
 
 
-![description](https://github.com/user-attachments/assets/1eb4bfff-6368-469d-bfcd-5d40f87470b8)
-
-){:width="500" height="300"}
-
-
-<img src="https://github.com/user-attachments/assets/4e5d9728-475b-4730-8c13-9294bef9fb45
-" alt="Tiny Image" width="100"/>
 
 
 
