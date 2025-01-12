@@ -12,7 +12,7 @@ A battery of "V" volts connected across the block .To calculate the current I<su
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
 
-$$I_R = \frac{\Delta Q}{\Delta t}= \Delta Qs \cdot \frac{\Delta x}{\Delta t}=Q_S.V_d $$
+$$I_R = \frac{\Delta Q}{\Delta t}= \Delta Qs \cdot \frac{\Delta x}{\Delta t}=Q_S.V_d .......................(i)$$
 
 or,
 
@@ -20,7 +20,7 @@ $$I_R=SheetCharge* AverageVelocity$$
 
 Here Q_s is the Sheet charge or the Free charges per unit length
 
-$$Q_s= nwh = A$$
+$$Q_s= nwh = A$$..............................................................................................(ii)
 
 v<sub>d</sub>  is the average velocity of free charges:
 
