@@ -19,7 +19,7 @@ v<sub>d<\sub> is the average velocity of the electrons:
 
 $$ v_d= \frac{\Delta x}{\Delta t}  =\muE $$
 
-E= \frac{\Delta v}{\Delta x} \mu is the mobility of free charges inside the material.
+$E= \frac{\Delta v}{\Delta x}$  mobility of free charges inside the material.
 Therefore,
 
 $$I_R= \muQ_S \frac{\Delta v}{\Delta x} $$
