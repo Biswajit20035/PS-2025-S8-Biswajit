@@ -20,13 +20,13 @@ $$I_R=SheetCharge* AverageVelocity$$
 
 Here Q_S is the Sheet charge or the Free charges per unit length
 
-$$Q_S= nWH = A....................................(ii)$$
+$$Q_S= nWH = A.............................................(ii)$$
 
 v<sub>d</sub>  is the average velocity of free charges:
 
 $$ V_D= \frac{\Delta X}{\Delta T}  =\mu E ....................................................(iii) $$
 
-$$E= \frac{\Delta V}{\Delta X}...........................................(iv)$$ 
+$$E= \frac{\Delta V}{\Delta X}....................................................(iv)$$ 
 
 Therefore from equation (i),(iii) and (iv)
 
