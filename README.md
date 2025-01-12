@@ -39,7 +39,7 @@ $\frac{\rho}{h}$ is called sheet-rho( $\rho_{sheet}$)
 
 Calculate the resistance of an aluminum wire with the following dimension:
 L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
+| Material | Resistivity| Resistance | Sheet-row | Melting point | Cost/10 gram | Temprature coefficient of resistance |
 |----------|----------|----------|----------|----------|----------|----------|
 | Row 1    | Data     | Data     | Data     | Data     | Data     | Data     |
 | Row 2    | Data     | Data     | Data     | Data     | Data     | Data     |
