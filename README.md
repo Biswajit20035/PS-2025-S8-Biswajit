@@ -35,7 +35,7 @@ Here L and A are the length and cross sectional area (WH) of the block respectiv
 
 $$ R =\left( \frac{\rho}{h} \right)\cdot \left(\frac{l}{w} \right) $$
 
-$\frac{\rho}{h}$ is called sheet-rho( $\rho_sheet$)
+$\frac{\rho}{h}$ is called sheet-rho( $\rho_{sheet}$)
 
 
 
