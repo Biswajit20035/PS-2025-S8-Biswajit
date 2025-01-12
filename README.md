@@ -12,7 +12,7 @@ A battery of "V" volts connected across the block .To calculate the current I<su
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
 
-$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs \cdot \frac{\Delta X}{\Delta T}=Q_SV_d ............................(i)$$
+$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs \cdot \frac{\Delta X}{\Delta T}=Q_SV_D ............................(i)$$
 
 or,
 
@@ -24,19 +24,19 @@ $$Q_S= nWH = A....................................(ii)$$
 
 v<sub>d</sub>  is the average velocity of free charges:
 
-$$ v_d= \frac{\Delta X}{\Delta T}  =\mu E .......................................(iii) $$
+$$ V_D= \frac{\Delta X}{\Delta T}  =\mu E .......................................(iii) $$
 
 $$E= \frac{\Delta V}{\Delta X}.........................................................(iv)$$ 
 
 Therefore from equation (i),(iii) and (iv)
 
-$$I_R =Q_SV_d = q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}....................................(v) $$
+$$I_R =Q_SV_D= q_s \cdot \mu \cdot E= \mu Q_S \cdot \frac{\Delta v}{\Delta x}....................................(v) $$
 
 The incremental resistance can be expressed as
 
 $$\Delta R = \frac{\Delta v}{ I_R}$$
 
-$$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta V}{\Delta X}}=\frac{\Delta V \cdot \Delta X}{Q_S \mu \cdot \Delta V}=\frac{\Delta X}{Q_S \cdot \mu}=\frac{\Delta X}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta X}{A}$$
+$$ =\frac{\Delta V}{\mu Q_S \cdot \frac{\Delta V}{\Delta X}}=\frac{\Delta V \cdot \Delta X}{Q_S \mu \cdot \Delta V}=\frac{\Delta X}{Q_S \cdot \mu}=\frac{\Delta X}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta X}{A}$$
 
 Total resistance of the material can be expressed as:
 
@@ -44,9 +44,9 @@ $$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta X}{A}=\frac{\rho}{A} \sum \Delt
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
-$$ R =\left( \frac{\rho}{h} \right)\cdot \left(\frac{l}{w} \right) $$
+$$ R =\left( \frac{\rho}{H} \right)\cdot \left(\frac{L}{W} \right) $$
 
-$\frac{\rho}{h}$ is called sheet-rho( $\rho_{sheet}$)
+$\frac{\rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
 
 
 Calculate the resistance of an aluminum wire with the following dimension:
