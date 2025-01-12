@@ -107,7 +107,8 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
 
- ![Alt text](URL)
+ ![Alt text](![Capacitance of blockes](https://github.com/user-attachments/assets/ad2c677d-4576-4711-a37c-f795b946a417)
+)
 
 To calculate c1=
 
@@ -122,6 +123,7 @@ $$C_2=\frac {\epsilon_o.A.K}{d} $$
 $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}} $$
 
 $$=34.515 \times 10^{-15}$$
+
 
    
 
