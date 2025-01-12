@@ -33,7 +33,8 @@ $$ R = \rho \frac{L}{A} $$
 
 Here L and A are the length and cross sectional area (WH) of the block respectively .
 
-$$ r = \frac{\rho h}{l \cdot w} $$
+$$ r = (\rho h) \cdot \left( \frac{l}{w} \right) $$
+
 
 
 
