@@ -12,21 +12,21 @@ A battery of "V" volts connected across the block .To calculate the current I<su
  across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
 
-$$I_R = \frac{\Delta Q}{\Delta t}= \Delta Qs \cdot \frac{\Delta x}{\Delta t}=Q_SV_d ............................(i)$$
+$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs \cdot \frac{\Delta X}{\Delta T}=Q_SV_d ............................(i)$$
 
 or,
 
 $$I_R=SheetCharge* AverageVelocity$$
 
-Here Q_s is the Sheet charge or the Free charges per unit length
+Here Q_S is the Sheet charge or the Free charges per unit length
 
-$$Q_s= nWH = A....................................(ii)$$
+$$Q_S= nWH = A....................................(ii)$$
 
 v<sub>d</sub>  is the average velocity of free charges:
 
-$$ v_d= \frac{\Delta x}{\Delta t}  =\mu E .......................................(iii) $$
+$$ v_d= \frac{\Delta X}{\Delta T}  =\mu E .......................................(iii) $$
 
-$$E= \frac{\Delta v}{\Delta x}.........................................................(iv)$$ 
+$$E= \frac{\Delta V}{\Delta X}.........................................................(iv)$$ 
 
 Therefore from equation (i),(iii) and (iv)
 
@@ -36,11 +36,11 @@ The incremental resistance can be expressed as
 
 $$\Delta R = \frac{\Delta v}{ I_R}$$
 
-$$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta v}{\Delta x}}=\frac{\Delta v \cdot \Delta x}{q_s \mu \cdot \Delta v}=\frac{\Delta x}{q_s \cdot \mu}=\frac{\Delta x}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta x}{A}$$
+$$ =\frac{\Delta v}{\mu Q_S \cdot \frac{\Delta V}{\Delta X}}=\frac{\Delta V \cdot \Delta X}{Q_S \mu \cdot \Delta V}=\frac{\Delta X}{Q_S \cdot \mu}=\frac{\Delta X}{n \cdot A \cdot \mu}=\frac{\rho \cdot \Delta X}{A}$$
 
 Total resistance of the material can be expressed as:
 
-$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta x}{A}=\frac{\rho}{A} \sum \Delta x=\frac{\rho \cdot L}{A}...................(vi)$$
+$$R = \sum \Delta R=\sum \frac{\rho \cdot \Delta X}{A}=\frac{\rho}{A} \sum \Delta X=\frac{\rho \cdot L}{A}...................(vi)$$
 
 Here L and A are the length and cross-sectional area (WH) of the block respectively .
 
