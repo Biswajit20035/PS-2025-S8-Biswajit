@@ -1,4 +1,4 @@
-# PS-2025-S8-Biswajit
+[# PS-2025-S8-Biswajit
 ## Day 1
 *ps*: [firstday.pdf](https://www.dropbox.com/scl/fi/vpwb0qvgaxr6g17kae5om/PS-Day-1.pdf?rlkey=spzuaq1qmbvnl727y1y9kd41t&st=sjkp1z95&dl=0)
 
@@ -9,7 +9,7 @@
 Consider a block of metal or semiconductor material with dimensions L,W, and H .\
 Let N= Free charges per unit volume. 
 A battery of "V" volts connected across the block .To calculate the current I<sub>R</sub> for an applied voltage 
- across the length of the material, we will consider an incremental cross section of the material with length 
+across the length of the material, we will consider an incremental cross section of the material with length 
 . The current can be written as the total charge in the incremental volume in time 
 
 $$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs\frac{\Delta X}{\Delta T}=Q_SV_D ...............................(i)$$
@@ -195,3 +195,4 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 
 
 
+](https://github.com/Biswajit20035/PS-2025-S8-Biswajit?tab=readme-ov-file#ps-2025-s8-biswajit)
