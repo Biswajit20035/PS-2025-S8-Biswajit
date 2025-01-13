@@ -72,8 +72,7 @@ Capacitance resiatance inductance Everything so accurately
 
 
 
-
-\[I_R = \frac{\Delta v}{\Delta d}\]
+$$I_R = \frac{\Delta v}{\Delta d}\ $$
 
 
 $$ R = \frac{\rho h}{wl} $$
