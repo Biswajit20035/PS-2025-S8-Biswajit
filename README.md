@@ -67,7 +67,8 @@ L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
 
 
 
-This is the new directory make changes on it it will be help full 
+This is the new directory make changes on it it will be help full
+Capacitance resiatance inductance Everything so accurately  
 
 
 
