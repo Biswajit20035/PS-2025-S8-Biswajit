@@ -73,10 +73,7 @@ Capacitance resiatance inductance Everything so accurately
 
 
 
-
-$$ E = \frac{\partial V}{\partial x} $$
-
-
+\[I_R = \frac{\Delta v}{\Delta d}\]
 
 
 
