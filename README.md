@@ -73,6 +73,11 @@ Capacitance resiatance inductance Everything so accurately
 
 
 
+\[I_R = \frac{\Delta v}{\Delta d}\]
+
+
+
+
 
 
 
