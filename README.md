@@ -1,4 +1,4 @@
-[# PS-2025-S8-Biswajit
+[# PS-2025-S8-Biswajit]
 ## Day 1
 *ps*: [firstday.pdf](https://www.dropbox.com/scl/fi/vpwb0qvgaxr6g17kae5om/PS-Day-1.pdf?rlkey=spzuaq1qmbvnl727y1y9kd41t&st=sjkp1z95&dl=0)
 
@@ -67,7 +67,7 @@ L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
 
 
 
-
+This is the new directory make changes on it it will be help full 
 
 
 
@@ -164,35 +164,3 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 
 
 
-
-
-
-
-   
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-](https://github.com/Biswajit20035/PS-2025-S8-Biswajit?tab=readme-ov-file#ps-2025-s8-biswajit)
