@@ -88,12 +88,14 @@ $$ Q \propto V $$
  
 Here the proportionality constant is the capacitance of the parallel plates : 
 
-$$ Q = CV .......................(1)$$  
+$$ Q = CV .......................(i)$$  
+
+$$ C= \frac{Q}{V}.................(ii)$$
  
 We will apply Gauss's theorem to calculate the capacitance of the parallel plates .\
 Gauss Theorem can mathemticallly expressed as
 
-$$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(2)$$
+$$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(iii)$$
 
 We imagine a closed gaussian surface around a plate and total electric flux coming out of that closed gaussian surface can be expressed as
 
@@ -101,7 +103,7 @@ $$\Phi_E = EA=  \frac{Q}{\epsilon_o} $$
 
 Q can be expressed as :
 
-$$ Q=\overrightarrow{E}.A.\epsilon_o ...................(3) $$
+$$ Q=\overrightarrow{E}.A.\epsilon_o ...................(iv) $$
 
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
 
