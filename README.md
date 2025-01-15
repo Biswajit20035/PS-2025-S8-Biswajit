@@ -155,8 +155,7 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 | Glass    |C=601 K=6.79|C=1264 K=7.141     | C=1877 K=7.069     | C=1 K=0.0028     |C=1 K=0.0022  |    
 
 
-
-This is the place i will edit 
+ 
 
 
 
