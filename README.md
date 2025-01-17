@@ -218,7 +218,7 @@ terminals A–B, A–C, A–D, B–C, B–D, and C–D.
 
 
 
-
+nswers;
 
 
 
