@@ -202,11 +202,6 @@ blow. Inserting a shunt resistor R x diverts a portion of the
 available source current around the fuse and device. Select a
 value of R x so only 1 mA is delivered to the device.
 
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/0cde3557-cda3-4c13-a169-1878938974f " alt="Description" width="600" height="400"/>
-</p>
-
  <p align="center">
    <img src="https://github.com/user-attachments/assets/026d07e7-9fa4-4b57-8217-ef82875cd28a"  alt="Description" width="600" height="400"/>
 </p>
