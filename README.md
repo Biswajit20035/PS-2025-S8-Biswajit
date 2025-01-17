@@ -186,7 +186,7 @@ $$i_1+i_2=0 $$
 
 $$ i_1=-i_2$$
 
-$$i_2+i_3+i_4=i-5$$
+$$i_2+i_3+i_4=i_5$$
 
 $$i_5= -4+1+2=-1$$
 
@@ -204,13 +204,13 @@ value of R x so only 1 mA is delivered to the device.
 
 
 
-$$(90 \, \Omega + 10 \, \Omega) \times 1 \times 10^{-3}=0.1 V$$
+$$(90\ \Omega + 10 \, \Omega) \times 1 \times 10^{-3}=0.1 V$$
 
 $$\frac{0.1}{100}=1 \times 10^{-3}$$
 
-$$10 - 1 - 1 = 8 \, \text{mA}$$
+$$10 - 1 - 1 = 8\ \text{mA}$$
 
-$$\frac{0.1}{8 \times 10^{-3}= 12.5 \omega $$
+$$\frac{0.1}{8 \times 10^{-3}=12.5 \, \Omega $$
 
 
 2–34 In Figure P2–34 find the equivalent resistance between
