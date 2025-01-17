@@ -204,6 +204,13 @@ value of R x so only 1 mA is delivered to the device.
 
 
 ![Image Description](D:\New folder\Fuse numerical.jpg)
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/0cde3557-cda3-4c13-a169-1878938974f5
+" alt="Description" width="600" height="400"/>
+</p>
+
+
+
 
 
 $$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1 V$$
