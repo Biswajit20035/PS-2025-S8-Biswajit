@@ -196,11 +196,11 @@ The circuit in Figure 2–48 shows a delicate device that is modeled by a 90-Ω 
    <img src="https://github.com/user-attachments/assets/026d07e7-9fa4-4b57-8217-ef82875cd28a"  alt="Description" width="800" height="250"/>
 </p>
 
-
+Value of 'V' :
 
 $$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1v ........................(i)$$
 
-Current flowing through '100-ohm' resistor:
+Current flowing through '100Ω' resistor:
 
 $$\frac{0.1}{100}=1 \times 10^{-3}.....................................(ii)$$
 
@@ -210,9 +210,15 @@ $$10 - 1 - 1 = 8\ \text{mA}............................................(iii)$$
 
 Value of resistance of shunt resistor  R_X  : 
 
-$$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv)$$
+$$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv) ..  (Ans)$$
 
 
 2–34 In Figure P2–34 find the equivalent resistance between
 terminals A–B, A–C, A–D, B–C, B–D, and C–D.
+
+
+
+
+
+
 
