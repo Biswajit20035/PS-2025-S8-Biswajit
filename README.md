@@ -204,7 +204,7 @@ value of R x so only 1 mA is delivered to the device.
 
 
 
-$$(90 + 10) \, \Omega \times 1 \, \text{mA}=0.1 V$$
+$$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1 V$$
 
 $$\frac{0.1}{100}=1 \times 10^{-3}$$
 
