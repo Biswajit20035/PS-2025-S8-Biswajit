@@ -203,7 +203,7 @@ available source current around the fuse and device. Select a
 value of R x so only 1 mA is delivered to the device.
 
  <p align="center">
-   <img src="https://github.com/user-attachments/assets/026d07e7-9fa4-4b57-8217-ef82875cd28a"  alt="Description" width="800" height="300"/>
+   <img src="https://github.com/user-attachments/assets/026d07e7-9fa4-4b57-8217-ef82875cd28a"  alt="Description" width="800" height="200"/>
 </p>
 
 
