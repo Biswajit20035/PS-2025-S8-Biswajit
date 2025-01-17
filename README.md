@@ -208,7 +208,7 @@ Current Flowing through Shunt Resistor( R_X):
 
 $$10 - 1 - 1 = 8\ \text{mA}............................................(iii)$$
 
-Value of resistance of shunt resistor(R_X): 
+Value of resistance of shunt resistor  R_X  : 
 
 $$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv)$$
 
