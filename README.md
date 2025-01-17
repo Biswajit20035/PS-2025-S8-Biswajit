@@ -190,27 +190,11 @@ $$i_2+i_3+i_4=i_5$$
 
 $$i_5= -4+1+2=-1$$
 
-
-
-The circuit in Figure 2–48 shows a delicate device that is
-modeled by a 90-Ω equivalent resistance. The device requires a
-current of 1 mA to operate properly. A 1.5-mA fuse is inserted in
-series with the device to protect it from overheating. The
-resistance of the fuse is 10 Ω. Without the shunt resistance R x ,
-the source would deliver 5 mA to the device, causing the fuse to
-blow. Inserting a shunt resistor R x diverts a portion of the
-available source current around the fuse and device. Select a
-value of R x so only 1 mA is delivered to the device.
+The circuit in Figure 2–48 shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly. A 1.5-mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance R x ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor R x diverts a portion of the available source current around the fuse and device. Select a value of R x so only 1 mA is delivered to the device.
 
  <p align="center">
    <img src="https://github.com/user-attachments/assets/026d07e7-9fa4-4b57-8217-ef82875cd28a"  alt="Description" width="800" height="250"/>
 </p>
-
-
-
-
-
-
 
 $$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1 V$$
 
@@ -223,10 +207,4 @@ $$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega$$
 
 2–34 In Figure P2–34 find the equivalent resistance between
 terminals A–B, A–C, A–D, B–C, B–D, and C–D.
-
-
-
-answers here 
-
-
 
