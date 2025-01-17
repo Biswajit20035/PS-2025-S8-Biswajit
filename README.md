@@ -57,23 +57,6 @@ L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
 | Copper   | 1.68 | 16.8    | Data     | Data     | Data     | 0.00393   |
 | Gold | 2.44| 24.4  | Data     | Data     | Data     | Data     | 0.0034
 
-
-
-  
-
-
-
-$$I_R = \frac{\Delta v}{\Delta d}\ $$
-
-
-$$ R = \frac{\rho h}{wl} $$
-
-
-
-$$ I = \frac{\Delta V}{R} $$
-
-
-
 :
 
 
