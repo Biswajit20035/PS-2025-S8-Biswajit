@@ -160,7 +160,7 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 
 What is the maximum current that can flow through a ⅛-W,
 6.8-kΩ resistor? What is the maximum voltage that can be
-across it?
+across it?\
 Answers:
 
 Here Power(P) = 1/8 W, Resistance of Resistor= 6.8 K
@@ -169,13 +169,56 @@ $$P = \frac{v^2}{r}$$
 
 $$v = \sqrt{P \cdot R}$$
  
-      $$v = \sqrt{\frac{1}{8} \times 6.8 \times 10^{-3}}$$
-
-    =29.15 V
+$$v = \sqrt{\frac{1}{8} \times 6.8 \times 10^{-3}}=29.15$$
 
 $$P = I^2 \cdot R$$
 
 $$I = \sqrt{\frac{P}{R}}$$ 
 
-    =$$\sqrt{\frac{\frac{1}{8}}{6.8 \times 10^3}}$$
+$$\sqrt{\frac{\frac{1}{8}}{6.8 \times 10^3}}$$
+
+Given i 1 = +4 A, i 3 = +1 A, i 4 = +2 A in the circuit shown in
+Figure 2–11 , find i 2 and i 5 .
+
+Answers:
+
+$$i_1+i_2=0 $$
+
+$$ i_1=-i_2$$
+
+$$i_2+i_3+i_4=i-5$$
+
+$$i_5= -4+1+2=-1$$
+
+
+
+The circuit in Figure 2–48 shows a delicate device that is
+modeled by a 90-Ω equivalent resistance. The device requires a
+current of 1 mA to operate properly. A 1.5-mA fuse is inserted in
+series with the device to protect it from overheating. The
+resistance of the fuse is 10 Ω. Without the shunt resistance R x ,
+the source would deliver 5 mA to the device, causing the fuse to
+blow. Inserting a shunt resistor R x diverts a portion of the
+available source current around the fuse and device. Select a
+value of R x so only 1 mA is delivered to the device.
+
+
+
+$$(90 \, \Omega + 10 \, \Omega) \times 1 \times 10^{-3}=0.1 V$$
+
+$$\frac{0.1}{100}=1 \times 10^{-3}$$
+
+$$10 - 1 - 1 = 8 \, \text{mA}$$
+
+$$\frac{0.1}{8 \times 10^{-3}= 12.5 \omega $$
+
+
+2–34 In Figure P2–34 find the equivalent resistance between
+terminals A–B, A–C, A–D, B–C, B–D, and C–D.
+
+
+
+
+
+
 
