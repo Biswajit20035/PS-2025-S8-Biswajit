@@ -210,7 +210,7 @@ $$\frac{0.1}{100}=1 \times 10^{-3}$$
 
 $$10 - 1 - 1 = 8\ \text{mA}$$
 
-$$\frac{0.1}{8 \times 10^{-3}=12.5 \, \Omega $$
+$$\frac{0.1}{8} \times 10^{-3} = 12.5 \, \Omega$$
 
 
 2–34 In Figure P2–34 find the equivalent resistance between
