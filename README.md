@@ -212,6 +212,9 @@ Value of resistance of shunt resistor  \(R_x\) :
 $$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv) ..  (Ans)$$
 
 
+
+
+
 2–34 In Figure P2–34 find the equivalent resistance between
 terminals A–B, A–C, A–D, B–C, B–D, and C–D.
 
