@@ -158,6 +158,24 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
  
 
 
+What is the maximum current that can flow through a ⅛-W,
+6.8-kΩ resistor? What is the maximum voltage that can be
+across it?
+Answers:
 
+Here Power(P) = 1/8 W, Resistance of Resistor= 6.8 K
 
+$$P = \frac{v^2}{r}$$
+
+$$v = \sqrt{P \cdot R}$$
+ 
+      $$v = \sqrt{\frac{1}{8} \times 6.8 \times 10^{-3}}$$
+
+    =29.15 V
+
+$$P = I^2 \cdot R$$
+
+$$I = \sqrt{\frac{P}{R}}$$ 
+
+    =$$\sqrt{\frac{\frac{1}{8}}{6.8 \times 10^3}}$$
 
