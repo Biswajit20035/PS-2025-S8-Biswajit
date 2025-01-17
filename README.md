@@ -158,9 +158,7 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
  
 
 
-What is the maximum current that can flow through a ⅛-W,
-6.8-kΩ resistor? What is the maximum voltage that can be
-across it?\
+* What is the maximum current that can flow through a ⅛-W,6.8-kΩ resistor? What is the maximum voltage that can be across it?
 Answers:
 
 Here Power(P) = 1/8 W, Resistance of Resistor= 6.8 K
@@ -177,7 +175,7 @@ $$I = \sqrt{\frac{P}{R}}$$
 
 $$\sqrt{\frac{\frac{1}{8}}{6.8 \times 10^3}}$$
 
-Given i 1 = +4 A, i 3 = +1 A, i 4 = +2 A in the circuit shown in
+* Given i 1 = +4 A, i 3 = +1 A, i 4 = +2 A in the circuit shown in
 Figure 2–11 , find i 2 and i 5 .
 
 Answers:
@@ -190,9 +188,10 @@ $$i_2+i_3+i_4=i_5$$
 
 $$i_5= -4+1+2=-1$$
 
-The circuit in Figure 2–48 shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly. A 1.5-mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance R x ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor R x diverts a portion of the available source current around the fuse and device. Select a value of R x so only 1 mA is delivered to the device.
+The circuit below shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly.A 1.5mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance \(R_x\) ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor \(R_x\) diverts a portion of the available source current around the fuse and device. Select a value of \(R_x\) so only 1 mA is delivered to the device.
+Answer :
 
- <p align="center">
+<p align="center">
    <img src="https://github.com/user-attachments/assets/026d07e7-9fa4-4b57-8217-ef82875cd28a"  alt="Description" width="800" height="250"/>
 </p>
 
@@ -204,11 +203,11 @@ Current flowing through '100Ω' resistor:
 
 $$\frac{0.1}{100}=1 \times 10^{-3}.....................................(ii)$$
 
-Current Flowing through Shunt Resistor( R_X):
+Current Flowing through Shunt Resistor(\(R_x\)):
 
 $$10 - 1 - 1 = 8\ \text{mA}............................................(iii)$$
 
-Value of resistance of shunt resistor  R_X  : 
+Value of resistance of shunt resistor  \(R_x\) : 
 
 $$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv) ..  (Ans)$$
 
