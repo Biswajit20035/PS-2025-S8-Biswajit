@@ -200,7 +200,7 @@ The circuit in Figure 2–48 shows a delicate device that is modeled by a 90-Ω 
 
 $$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1v ........................(i)$$
 
-Current flowing through 100 \ \Omega resistor:
+Current flowing through '100-ohm' resistor:
 
 $$\frac{0.1}{100}=1 \times 10^{-3}.....................................(ii)$$
 
