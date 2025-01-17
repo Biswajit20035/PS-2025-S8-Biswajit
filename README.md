@@ -171,7 +171,7 @@ $$i_2+i_3+i_4=i_5$$
 
 $$i_5= -4+1+2=-1$$
 
-The circuit below shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly.A 1.5mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance (R<sub>X</sub>) ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor (R<sub>X</sub>) diverts a portion of the available source current around the fuse and device. Select a value of (R<sub>X</sub>) so only 1 mA is delivered to the device.
+The circuit below shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly.A 1.5mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance (R<sub>X</sub>) ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor (R<sub>X</sub>) diverts a portion of the available source current around the fuse and device. Select a value of (R<sub>X</sub>) so only 1 mA is delivered to the device.\
 Answer :
 
 <p align="center">
