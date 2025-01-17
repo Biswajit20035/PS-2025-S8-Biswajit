@@ -188,7 +188,7 @@ $$i_2+i_3+i_4=i_5$$
 
 $$i_5= -4+1+2=-1$$
 
-The circuit below shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly.A 1.5mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance \(R_x\) ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor \(R_x\) diverts a portion of the available source current around the fuse and device. Select a value of \(R_x\) so only 1 mA is delivered to the device.
+The circuit below shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly.A 1.5mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance (R<sub>X</sub>) ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor (R<sub>X</sub>) diverts a portion of the available source current around the fuse and device. Select a value of (R<sub>X</sub>) so only 1 mA is delivered to the device.
 Answer :
 
 <p align="center">
@@ -203,11 +203,11 @@ Current flowing through '100Ω' resistor:
 
 $$\frac{0.1}{100}=1 \times 10^{-3}.....................................(ii)$$
 
-Current Flowing through Shunt Resistor(\(R_x\)):
+Current Flowing through Shunt Resistor( R<sub>X</sub>):
 
 $$10 - 1 - 1 = 8\ \text{mA}............................................(iii)$$
 
-Value of resistance of shunt resistor  \(R_x\) : 
+Value of resistance of shunt resistor (R<sub>X</sub>) : 
 
 $$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv) ..  (Ans)$$
 
