@@ -203,6 +203,8 @@ available source current around the fuse and device. Select a
 value of R x so only 1 mA is delivered to the device.
 
 
+![Image Description](D:\New folder\Fuse numerical.jpg)
+
 
 $$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1 V$$
 
