@@ -1,30 +1,26 @@
 [# PS-2025-S8-Biswajit]
-## Day 1
-*ps*: [firstday.pdf](https://www.dropbox.com/scl/fi/vpwb0qvgaxr6g17kae5om/PS-Day-1.pdf?rlkey=spzuaq1qmbvnl727y1y9kd41t&st=sjkp1z95&dl=0)
-
+*ps*: 
  <p align="center">
    <img src="https://github.com/user-attachments/assets/c156504e-aa2f-4d54-9583-70e9134ee6c7" alt="Description" width="600" height="400"/>
 </p>
 
 Consider a block of metal or semiconductor material with dimensions L,W, and H .\
-Let N= Free charges per unit volume. 
-A battery of "V" volts connected across the block .To calculate the current I<sub>R</sub> for an applied voltage 
-across the length of the material, we will consider an incremental cross section of the material with length 
-. The current can be written as the total charge in the incremental volume in time 
+Let N= Free charges per unit volume. \
+A battery of "V" volt connected across the block .To calculate the current I<sub>R</sub> for an applied voltage across the length of the material, We will consider an incremental cross section of the material with length.The current can be written as the total charge in the incremental volume in time. 
 
 $$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs\frac{\Delta X}{\Delta T}=Q_SV_D ...............................(i)$$
 
 or,
 
-$$I_R=SheetCharge* AverageVelocity$$
+$$I_R=SheetCharge * AverageVelocity$$
 
 Here Q_S is the Sheet charge or the Free charges per unit length
 
 $$Q_S= NWH = NA.............................................(ii)$$
 
-v<sub>d</sub>  is the average velocity of free charges:
+V<sub>D</sub>  is the average velocity of free charges:
 
-$$ V_D= \frac{\Delta X}{\Delta T}  =\mu E ....................................................(iii) $$
+$$ V_D= \frac{\Delta X}{\Delta T} =\mu E ....................................................(iii) $$
 
 $$E= \frac{\Delta V}{\Delta X}....................................................(iv)$$ 
 
@@ -59,11 +55,7 @@ L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
 
 :
 
-
-
-## Day 2
-Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection let the plate connected with the cathode of battery has total charge +Q on its surface and 
-the plate connected with the anode of battery has total charge -Q on its surface .\
+Lets consider 2 parallel plates connected with a battery of "V" volt .After sometimes of battery connection let the plate connected with the cathode of battery has total charge +Q on its surface and the plate connected with the anode of battery has total charge -Q on its surface .\
 Gradually as the charge increases on the plate potential also increases.Let the potential on the plates are V1 and V2 respectively .\
 Relation between total charge on either plate and potential difference between two parallel plates (V= V1-V2) can be mathematically expressed as:
 
@@ -98,15 +90,15 @@ Therefore putting the values of Q and V from equation 3 and 4 the capacitance of
 
  $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(v)$$
 
-* Calculate  C1  and C2 of the image
+* Calculate C1 and C2 of the imagegiven below.
  <p align="center">
    <img src="https://github.com/user-attachments/assets/1eb4bfff-6368-469d-bfcd-5d40f87470b8" alt="Description" width="600" height="400"/>
 </p>
-To calculate C1:
+Answers:To calculate C1:
 
 $$ C_1= \frac {\epsilon_o.A.K}{d} $$
 
-$$=\frac{ 8.85 \times 10^{-12}  \times  100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515  \times 10^{-15}$$
+$$=\frac{8.85 \times 10^{-12}\times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515 \times 10^{-15}$$
 
 To calculate C2:                            
 
@@ -171,14 +163,11 @@ $$i_2+i_3+i_4=i_5$$
 
 $$i_5= -4+1+2=-1$$
 
-The circuit below shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly.A 1.5mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance (R<sub>X</sub>) ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor (R<sub>X</sub>) diverts a portion of the available source current around the fuse and device. Select a value of (R<sub>X</sub>) so only 1 mA is delivered to the device.\
-Answer :
-
+* The circuit below shows a delicate device that is modeled by a 90-Ω equivalent resistance. The device requires a current of 1 mA to operate properly.A 1.5mA fuse is inserted in series with the device to protect it from overheating. The resistance of the fuse is 10 Ω. Without the shunt resistance (R<sub>X</sub>) ,the source would deliver 5 mA to the device, causing the fuse to blow. Inserting a shunt resistor (R<sub>X</sub>) diverts a portion of the available source current around the fuse and device. Select a value of (R<sub>X</sub>) so only 1 mA is delivered to the device.
 <p align="center">
    <img src="https://github.com/user-attachments/assets/026d07e7-9fa4-4b57-8217-ef82875cd28a"  alt="Description" width="800" height="250"/>
 </p>
-
-Value of 'V' :
+Answer: Value of 'V' :
 
 $$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1v ........................(i)$$
 
