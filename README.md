@@ -98,7 +98,7 @@ Answers:To calculate C1:
 
 $$ C_1= \frac {\epsilon_o.A.K}{d} $$
 
-$$=\frac{8.85 \times 10^{-12}\times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515 \times 10^{-15}=3.1545 $$\text{fF} $$
+$$=\frac{8.85 \times 10^{-12}\times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515 \times 10^{-15}=3.1545 \text{fF} $$
 
 To calculate C2:                            
 
