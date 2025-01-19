@@ -171,7 +171,7 @@ Answer: Value of 'V' :
 
 $$(90 + 10)\ \Omega \times 1\ \text{mA}=0.1v ........................(i)$$
 
-Current flowing through '100$$\Omega$$'  resistor:
+Current flowing through '100 $$\Omega$$'  resistor:
 
 $$\frac{0.1}{100}=1 \times 10^{-3}.....................................(ii)$$
 
