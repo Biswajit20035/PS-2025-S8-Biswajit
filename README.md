@@ -8,7 +8,7 @@ Consider a block of metal or semiconductor material with dimensions L,W, and H .
 Let N= Free charges per unit volume. \
 A battery of "V" volt connected across the block .To calculate the current I<sub>R</sub> for an applied voltage across the length of the material, We will consider an incremental cross section of the material with length.The current can be written as the total charge in the incremental volume in time. 
 
-$$I_R = \frac{\Delta Q}{\Delta T}= \Delta Qs\frac{\Delta X}{\Delta T}=Q_SV_D ...............................(i)$$
+$$I_R = \frac{\Delta Q}{\Delta T}= Qs\frac{\Delta X}{\Delta T}=Q_SV_D ...............................(i)$$
 
 or,
 
@@ -42,7 +42,7 @@ Here L and A are the length and cross-sectional area (WH) of the block respectiv
 
 $$ R =\left( \frac{\rho}{H} \right) \left(\frac{L}{W} \right)....................................................(vii) $$
 
-$\frac{\rho}{H}$ is called sheet-rho( $\rho_{sheet}$)
+$\frac{\rho}{H}$ is called sheet-rho( $\rho_{sheet}$).
 
 
 Calculate the resistance of an aluminum wire with the following dimension:
