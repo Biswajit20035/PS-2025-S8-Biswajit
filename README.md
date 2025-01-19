@@ -66,11 +66,11 @@ Here the proportionality constant is the capacitance of the parallel plates :
 $$ Q = CV .......................(i)$$  
  
 We will apply Gauss's theorem to calculate the capacitance of the parallel plates .\
-Gauss Theorem can mathemticallly expressed as
+Gauss Theorem can mathemticallly expressed as :
 
 $$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(ii)$$
-
-We imagine a closed gaussian surface around a plate and total electric flux coming out of that closed gaussian surface can be expressed as
+ 
+We imagine a closed gaussian surface around a plate of total charge "Q" and total electric flux coming out of that closed gaussian surface can be expressed as:
 
 $$\Phi_E = EA=  \frac{Q}{\epsilon_o} $$
 
@@ -78,7 +78,7 @@ Q can be expressed as :
 
 $$ Q=\overrightarrow{E}.A.\epsilon_o ...................(iii) $$
 
-Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
+Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically as : 
 
 $$ \overrightarrow{E} = \frac{V}{d}...........................(iv)$$
 
@@ -98,7 +98,7 @@ Answers:To calculate C1:
 
 $$ C_1= \frac {\epsilon_o.A.K}{d} $$
 
-$$=\frac{8.85 \times 10^{-12}\times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515 \times 10^{-15}$$
+$$=\frac{8.85 \times 10^{-12}\times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515 \times 10^{-15}=3.1545 $$\text{fF} $$
 
 To calculate C2:                            
 
