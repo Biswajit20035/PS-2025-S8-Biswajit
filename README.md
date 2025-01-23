@@ -129,7 +129,7 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 | Procelain  |C=546 K=6.16| C=1104 K=6.23     | C= 1689 K=6.36     | C=1 K=0.0028| C=1 K=0.0022| 
 | Glass    |C=601 K=6.79|C=1264 K=7.141     | C=1877 K=7.069     | C=1 K=0.0028     |C=1 K=0.0022  |  
 
-### Capacitors Table
+### Datasheet of some different types of capacitors :
 
 | Type             | Capacitance range  | Maximum voltage | Accuracy  | Temperature stability | Leakage   | Comments                                               |
 |------------------|--------------------|-----------------|-----------|-----------------------|-----------|--------------------------------------------------------|
@@ -200,35 +200,5 @@ $$10 - 1 - 1 = 8\ \text{mA}............................................(iii)$$
 Value of resistance of shunt resistor (R<sub>X</sub>) : 
 
 $$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv) ..  (Ans)$$
-
-
-
-
-
-2–34 In Figure P2–34 find the equivalent resistance between
-terminals A–B, A–C, A–D, B–C, B–D, and C–D.
-
-
-### Capacitors Table
-
-| Type             | Capacitance range  | Maximum voltage | Accuracy  | Temperature stability | Leakage   | Comments                                               |
-|------------------|--------------------|-----------------|-----------|-----------------------|-----------|--------------------------------------------------------|
-| Mica             | 1pF-0.01μF         | 100-600         | Good      | Good                  | Good      | Excellent; good at RF                                  |
-| Tubular ceramic  | 0.5pF-100pF        | 100-600         | Selectable|                       |           | Several tempcos (including zero)                       |
-| Ceramic          | 10pF-1μF           | 50-30,000       | Poor      | Poor                  | Moderate  | Small, inexpensive, very popular                       |
-| Polyester (Mylar)| 0.001μF-50μF       | 50-600          | Good      | Poor                  | Good      | Inexpensive, good, popular                             |
-| Polystyrene      | 10pF-2.7μF         | 100-600         | Excellent | Good                  | Excellent | High quality, large; signal filters                    |
-| Polycarbonate    | 100pF-30μF         | 50-800          | Excellent | Excellent             | Good      | High quality, small                                    |
-| Polypropylene    | 100pF-50μF         | 100-800         | Excellent | Good                  | Excellent | High quality, low dielectric absorption                |
-| Teflon           | 1000pF-2μF         | 50-200          | Excellent | Best                  | Best      | High quality, lowest dielectric absorption             |
-| Glass            | 10pF-1000pF        | 100-600         | Good      |                       | Excellent | Long-term stability                                    |
-| Porcelain        | 100pF-0.1μF        | 50-400          | Good      | Good                  | Good      | Good long-term stability                               |
-| Tantalum         | 0.1μF-500μF        | 6-100           | Poor      | Poor                  |           | High capacitance; polarized, small; low inductance     |
-| Electrolytic     | 0.1μF-1.6F         | 3-600           | Terrible  | Ghastly               | Awful     | Power-supply filters; polarized; short life            |
-| Double layer     | 0.1F-10F           | 1.5-6           | Poor      | Poor                  | Good      | Memory backup; high series resistance                  |
-| Oil              | 0.1μF-20μF         | 200-10,000      |           |                       |           | High-voltage filters; large, long life                 |
-| Vacuum           | 1pF-5000pF         | 2000-36,000     |           |                       | Excellent | Transmitters                                           |
-
-Would you like any other details or changes to this table? 😃
 
 
