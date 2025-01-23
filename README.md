@@ -104,7 +104,7 @@ To calculate C2:
 
 $$C_2=\frac {\epsilon_o.A.K}{d} $$
 
-$$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} =3.1545 \text{f F}$$
+$$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} =34.515 \text{f F}$$
 
 ### Datasheet of some different types of capacitors :
 
