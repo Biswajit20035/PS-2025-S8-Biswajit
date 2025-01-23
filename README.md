@@ -106,29 +106,6 @@ $$C_2=\frac {\epsilon_o.A.K}{d} $$
 
 $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} =3.1545 \text{fF}$$
 
-| Dielctrics| A=5000 mm<sup>2</sup> D= 0.5mm| A=5000 mm<sup>2</sup>D= 1.5mm|  A=5000 mm<sup>2</sup> D= 2.5mm |  A=5000 mm<sup>2</sup> D= 3.5mm |  A=5000 mm<sup>2</sup> D= 4.5mm |  A=5000 mm<sup>2</sup> D= 5mm|
-|----------|----------|----------|----------|----------|----------|----------|
-| Air  | C=89 K=1.005     | C=30 K=1.016   | C=18 K=1.016   | C=13 K=1.028   | C=10 K=1.016  | C=9 K=1.016    |
-| Mica  | C=456 K=5.15  | C=148 K=5.016| C=89 K=5.028   | C=64  K=5.062  | C=48 K=4.88    | C=45 K=5.08   |
-| Paper    | C=307 K=3.46  | C=104 K=3.52    | C=63 K=3.55    | C=45 K=3.55  | C=34  K=3.45  | C=32 K=3.615   |
-| Paraffin    | C=210 K=2.37   | C=67  K=2.27    | C=42  K=2.37    | C=28 K=2.21    | C=23 K=2.33   |C=21 K=2.37   |
-| Porcelain    | C=546   K=6.16 | C=188 K=6.37   |C=108   K=6.10    | C=80 K=6.32    | C=63  K=6.40    |C=54  K=6.10    |
-| Glass   | C=601  K=6.79  | C=204 K=6.91    |C=121 K=6.83   | C=89   K=7.03    | C=68  K=6.91 | C=63 K=7.11   |
-
-
-
-
-
-
-| Dielectrics |A=5000 mm<sup>2</sup> D= 0.5mm | A=10000 mm<sup>2</sup> D= 0.5mm| A=15000 mm<sup>2</sup> D= 0.5mm | A=20000 mm<sup>2</sup> D= 0.5mm | A=25000 mm<sup>2</sup> D= 0.5mm | 
-|----------|----------|----------|----------|----------|----------|
-| Air    |C= 89 K=1.005|C=177 K=1|C=266 K=1.001|C=354 K=1    | C=443  K=1.001|
-| Mica    | C=456   K=5.15|C=858 K=4.84 |C=1314 K=4.94 |   | C=1 | 
-| Paper    | C=307   k=3.46| C=620 K=3.50|C=911 K=3.43| C=1202 K=3.39 | C= 1533 K=3.46|
-| Paraffin    |C=210 K=2.37 | C=407 K=2.29     |C=617 K=2.32    | C=806 K=2.27  | C=1028 K=2.32 |
-| Procelain  |C=546 K=6.16| C=1104 K=6.23     | C= 1689 K=6.36     | C=1 K=0.0028| C=1 K=0.0022| 
-| Glass    |C=601 K=6.79|C=1264 K=7.141     | C=1877 K=7.069     | C=1 K=0.0028     |C=1 K=0.0022  |  
-
 ### Datasheet of some different types of capacitors :
 
 | Type             | Capacitance range  | Maximum voltage | Accuracy  | Temperature stability | Leakage   | Comments                                               |
