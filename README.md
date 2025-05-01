@@ -178,4 +178,4 @@ Value of resistance of shunt resistor (R<sub>X</sub>) :
 
 $$\frac{0.1}{8} \times 10^{-3} = 12.5 \ \Omega.................(iv) ..  (Ans)$$
 
-
+SRAM 
